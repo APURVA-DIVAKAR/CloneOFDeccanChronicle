@@ -7,6 +7,7 @@ import { ChakraProvider } from "@chakra-ui/react";
 import { BrowserRouter } from "react-router-dom";
 import { Provider } from "react-redux";
 import { store } from "./Redux/store";
+import { ArticleProvider } from "./ArticleContext";
 
 // axios.defaults.baseURL =
 //   "https://newsapi.org/v2/top-headlines?country=in&apiKey=b2a6360a3d6d43be9e1c0e1ff86a4721";
@@ -17,7 +18,9 @@ root.render(
   <BrowserRouter>
     <Provider store={store}>
       <ChakraProvider>
-        <App />
+        <ArticleProvider>
+         <App />
+        </ArticleProvider>
       </ChakraProvider>
     </Provider>
   </BrowserRouter>

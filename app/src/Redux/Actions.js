@@ -49,7 +49,7 @@ const getBusinessSuccess =(payload)=>{
 export const getBusiness=()=>{
     return(dispatch)=>{
         dispatch(getBusinessRequest());
-        axios.get('https://newsapi.org/v2/top-headlines/sources?category=businessapiKey=b2a6360a3d6d43be9e1c0e1ff86a4721')
+        axios.get('https://newsapi.org/v2/top-headlines?category=business&country=in&apiKey=b2a6360a3d6d43be9e1c0e1ff86a4721')
         .then(r=>dispatch(getBusinessSuccess(r.data.articles)))
         .catch(e=>dispatch(getBusinessError(e.data)))
     }
@@ -76,7 +76,7 @@ const getScienceSuccess =(payload)=>{
 export const getScience=()=>{
     return(dispatch)=>{
         dispatch(getScienceRequest());
-        axios.get('https://newsapi.org/v2/top-headlines/sources?category=scienceapiKey=b2a6360a3d6d43be9e1c0e1ff86a4721')
+        axios.get('https://newsapi.org/v2/top-headlines?category=science&country=in&apiKey=b2a6360a3d6d43be9e1c0e1ff86a4721')
         .then(r=>dispatch(getScienceSuccess(r.data.articles)))
         .catch(e=>dispatch(getScienceError(e.data)))
     }
@@ -103,7 +103,7 @@ const getSportsSuccess =(payload)=>{
 export const getSports=()=>{
     return(dispatch)=>{
         dispatch(getSportsRequest());
-        axios.get('https://newsapi.org/v2/top-headlines/sources?category=sportsapiKey=b2a6360a3d6d43be9e1c0e1ff86a4721')
+        axios.get('https://newsapi.org/v2/top-headlines?category=sports&country=in&apiKey=b2a6360a3d6d43be9e1c0e1ff86a4721')
         .then(r=>dispatch(getSportsSuccess(r.data.articles)))
         .catch(e=>dispatch(getSportsError(e.data)))
     }
@@ -135,3 +135,38 @@ export const getTech=()=>{
         .catch(e=>dispatch(getTechError(e.data)))
     }
 }
+
+const getEntertainmentRequest =(payload)=>{
+    return {
+        type: _.GET_ENTERTAINMENT_REQUEST,
+        payload
+    }
+}
+const getEntertainmentError =(payload)=>{
+    return {
+        type: _.GET_ENTERTAINMENT_ERROR,
+        payload
+    }
+}
+const getEntertainmentSuccess =(payload)=>{
+    return {
+        type: _.GET_ENTERTAINMENT_SUCCESS,
+        payload
+    }
+}
+export const getEntertainment=()=>{
+    return(dispatch)=>{
+        dispatch(getEntertainmentRequest());
+        axios.get('https://newsapi.org/v2/top-headlines?category=entertainment&country=in&apiKey=b2a6360a3d6d43be9e1c0e1ff86a4721')
+        .then(r=>dispatch(getEntertainmentSuccess(r.data.articles)))
+        .catch(e=>dispatch(getEntertainmentError(e.data)))
+    }
+}
+
+
+export const getArticle = (data)=>{
+    return{
+        type:_.GET_ARTICLE_SUCCESS,
+        payload:data
+    }
+ }

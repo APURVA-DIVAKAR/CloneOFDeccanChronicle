@@ -8,8 +8,11 @@ import {
   useColorModeValue,
   Image
 } from '@chakra-ui/react';
+import { useContext } from 'react';
+import { ArticleContext } from '../ArticleContext';
 
-export default function CardsBig( { content,description,title,urlToImage } ) {
+export default function CardsBig( { content,description,title,urlToImage,handleClick,data } ) {
+  const {topic,handleSet} = useContext(ArticleContext)
   return (
     // <Center py={6} >
       <Box
@@ -21,7 +24,9 @@ export default function CardsBig( { content,description,title,urlToImage } ) {
         rounded={'md'}
         p={6}
         overflow={'hidden'}
-        border={'black'}>
+        border={'black'}
+        onClick={()=>handleSet(data)}
+        >
         <Box
         //   h={'310px'}
           bg={'gray.100'}

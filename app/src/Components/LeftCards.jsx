@@ -1,9 +1,11 @@
 import {Box, Divider, Flex, Heading, Image,Text } from '@chakra-ui/react'
-import React from 'react'
+import React, { useContext } from 'react'
+import { ArticleContext } from '../ArticleContext'
 
-const LeftCards = ({urlToImage,title}) => {
+const LeftCards = ({urlToImage,title,data}) => {
+  const {topic,handleSet} = useContext(ArticleContext)
   return (
-   <Box pl='0px'> 
+   <Box pl='0px' onClick={() => handleSet(data)}> 
     <Flex p='0.5rem' maxW='350px' pb='-10px'>
         
         <Text p='1rem'  fontWeight='bold'  color='black'>{title}</Text>

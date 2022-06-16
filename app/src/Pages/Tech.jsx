@@ -2,11 +2,10 @@ import { Box, Flex, Heading, HStack, Image, Text, VStack } from "@chakra-ui/reac
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import CardsBig from "../Components/CardsBig";
-import { getBusiness, getData,getScience,getSports,getTech,getEntertainment, getArticle } from "../Redux/Actions";
+import { getBusiness, getData,getScience,getSports,getTech,getEntertainment } from "../Redux/Actions";
 import { CircularProgress, CircularProgressLabel,Divider } from "@chakra-ui/react";
 import { columnData} from  './coloumnData'
-import {nanoid} from 'nanoid';
-import { useContext } from 'react';
+
 import {
   Accordion,
   AccordionItem,
@@ -22,9 +21,9 @@ import Ads from "../Components/Ads";
 import Carsousel from "../Components/Carsousel";
 import SCard from "../Components/SCard";
 import SSCard from "../Components/SSCard";
-import { ArticleContext } from "../ArticleContext";
+import { nanoid } from "nanoid";
 
-const Home = () => {
+const Tech = () => {
     const coloumnData= columnData
   const news = useSelector((store) => store.newsData.top);
   const tech = useSelector((store) => store.newsData.tech);
@@ -32,27 +31,19 @@ const Home = () => {
   const sports = useSelector((store) => store.newsData.sports);
   const business = useSelector((store) => store.newsData.business);
   const entertainment = useSelector((store) => store.newsData.entertainment);
-  const article = useSelector((store) => store.newsData.article);
+  
   const loading = useSelector((store) => store.newsData.loading);
-  // console.log(loading);
+  console.log(loading);
   const dispatch = useDispatch();
   useEffect(() => {
-    dispatch(getData())
-    dispatch(getTech())
-    dispatch(getBusiness())
-    dispatch(getSports())
-    dispatch(getScience())
-    dispatch(getEntertainment())
-  }, [dispatch,getData,getTech,getBusiness,getSports,getScience,getEntertainment]);
-  // console.log(science);
-  // const {topic,handleSet} = useContext(ArticleContext)
-  // const handleClick=(el)=>{
-  //    dispatch(getArticle(el))
-  //    console.log('hey')
-  //    console.log(article)
-  // }
-  // console.log(topic)
- 
+    // dispatch(getData())
+    // dispatch(getTech())
+    // dispatch(getBusiness())
+    // dispatch(getSports())
+    // dispatch(getScience())
+    // dispatch(getEntertainment())
+  }, []);
+  console.log(science);
   
   if (loading) {
     return;
@@ -64,8 +55,8 @@ const Home = () => {
     <Flex borderBottom='2px solid gray' pb='2rem' mt={'2rem'} >
       <VStack w={'45%'} >
       <Text as ='h2' mr={'70%'} align='left' borderBottom={'3px solid red'} pb={'2px'} >TOP STORIES</Text>
-        {news?.slice(0, 3).map((el) => {
-          return <CardsBig  key={nanoid(4)} {...el} data={el} />;
+        {tech?.slice(0, 3).map((el) => {
+          return <CardsBig key={nanoid(4)} {...el} />;
         })}
         <Accordion allowToggle  maxW={'550px'}
         mt={'1rem'}
@@ -86,8 +77,8 @@ const Home = () => {
               </AccordionButton>
             </h2>
             <AccordionPanel pb={4}>
-            {news?.slice(4, 9).map((el) => {
-                return <CardsBig key={nanoid(4)} {...el} data={el} />;
+            {tech?.slice(4, 9).map((el) => {
+                return <CardsBig key={nanoid(4)} {...el} />;
                 })}
             </AccordionPanel>
           </AccordionItem>
@@ -96,8 +87,8 @@ const Home = () => {
       </VStack>
       {/* Small cards of news */}
       <VStack spacing='0rem' borderRight='1px solid gray'>
-          {news?.slice(9, 19).map((el) => {
-                return <Cards key={nanoid(4)} {...el} data={el} />;
+          {tech?.slice(9, 19).map((el) => {
+                return <Cards key={nanoid(4)} {...el} />;
                 })}
 
 
@@ -106,8 +97,8 @@ const Home = () => {
       <VStack spacing='0rem' ml='3px' bg={'#f2f2f2'} >
       <Text as ='h2' mr={'60%'} borderBottom={'3px solid red'} pb={'2px'} maxW={'100%'}>MOST POPULAR</Text>
         <Box border='1px dotted gray'>
-          {news?.slice(4, 9).map((el) => {
-                return <LeftCards key={nanoid(4)} {...el} data={el} />;
+          {tech?.slice(4, 9).map((el) => {
+                return <LeftCards key={nanoid(4)} {...el} />;
                 })}
         </Box>
         <Box>
@@ -156,7 +147,7 @@ const Home = () => {
         </Flex>
         <HStack mt={'2rem'}>
             {entertainment.slice(4,7).map(el=>{
-                return <Cards key={nanoid(4)} {...el} data={el} />;
+                return <Cards key={nanoid(4)} {...el} />;
             })}
         </HStack>
         </VStack>
@@ -167,7 +158,7 @@ const Home = () => {
       <Text fontWeight={'500px'} as ='h2' borderBottom={'3px solid red'} pb={'2px'} maxW={'16%'}>JOBS & EDUCATION</Text>
       <HStack mt={'2rem'}>
             {business.slice(7,10).map(el=>{
-                return <Cards key={nanoid(4)} {...el} data={el} />;
+                return <Cards key={nanoid(4)} {...el} />;
             })}
         </HStack>
       </Box>
@@ -176,12 +167,12 @@ const Home = () => {
       <Text fontWeight={'500px'} as ='h2' borderBottom={'3px solid red'} pb={'2px'} maxW={'6%'}>SPORTS</Text>
       <HStack mt={'2rem'}>
             {sports.slice(7,10).map(el=>{
-                return <SSCard key={nanoid(4)} {...el} data={el} />;
+                return <SSCard key={nanoid(4)} {...el} />;
             })}
         </HStack>
         <HStack mt={'2rem'}>
             {sports.slice(7,11).map(el=>{
-                return <Cards key={nanoid(4)} {...el} data={el} />;
+                return <Cards key={nanoid(4)} {...el} />;
             })}
         </HStack>
       </Box>
@@ -189,12 +180,12 @@ const Home = () => {
       <Text fontWeight={'500px'} as ='h2' borderBottom={'3px solid red'} pb={'2px'} maxW={'10%'}>LIFESTYLE</Text>
       <HStack mt={'2rem'}>
             {entertainment.slice(11,15).map(el=>{
-                return <SSCard key={nanoid(4)} {...el} data={el} />;
+                return <SSCard key={nanoid(4)} {...el} />;
             })}
         </HStack>
         <HStack mt={'2rem'}>
             {entertainment.slice(2,5).map(el=>{
-                return <Cards key={nanoid(4)} {...el} data={el} />;
+                return <Cards key={nanoid(4)} {...el} />;
             })}
         </HStack>
       </Box>
@@ -203,7 +194,7 @@ const Home = () => {
       <Text fontWeight={'500px'} as ='h2' borderBottom={'3px solid red'} pb={'2px'} maxW={'10%'}>TECHNOLOGY</Text>
       <HStack mt={'2rem'}>
             {tech.slice(7,11).map(el=>{
-                return <SSCard key={nanoid(4)} {...el} data={el} />;
+                return <SSCard key={nanoid(4)} {...el} />;
             })}
         </HStack>        
       </Box>
@@ -211,12 +202,12 @@ const Home = () => {
       <Text fontWeight={'500px'} as ='h2' borderBottom={'3px solid red'} pb={'2px'} maxW={'6%'}>World</Text>
       <HStack mt={'2rem'}>
             {tech.slice(7,11).map(el=>{
-                return <SSCard key={nanoid(4)} {...el} data={el} />;
+                return <SSCard key={nanoid(4)} {...el} />;
             })}
         </HStack>
         <HStack mt={'2rem'}>
             {tech.slice(7,11).map(el=>{
-                return <Cards key={nanoid(4)} {...el} data={el}/>;
+                return <Cards key={nanoid(4)} {...el} />;
             })}
         </HStack>
       </Box>
@@ -225,12 +216,12 @@ const Home = () => {
       <Text fontWeight={'500px'} as ='h2' borderBottom={'3px solid red'} pb={'2px'} maxW={'7%'}>BUSINESS</Text>
       <HStack mt={'2rem'}>
             {business.slice(1,4).map(el=>{
-                return <SSCard key={nanoid(4)} {...el}  data={el}/>;
+                return <SSCard key={nanoid(4)} {...el} />;
             })}
         </HStack>
         <HStack mt={'2rem'}>
             {business.slice(4,8).map(el=>{
-                return <Cards key={nanoid(4)} {...el} data={el} />;
+                return <Cards key={nanoid(4)} {...el} />;
             })}
         </HStack>
       </Box>
@@ -239,12 +230,12 @@ const Home = () => {
       <Text fontWeight={'500px'} as ='h2' borderBottom={'3px solid red'} pb={'2px'} maxW={'7%'}>SCIENCE</Text>
       <HStack mt={'2rem'}>
             {science.slice(1,4).map(el=>{
-                return <SSCard key={nanoid(4)} {...el} data={el}/>;
+                return <SSCard key={nanoid(4)} {...el} />;
             })}
         </HStack>
         <HStack mt={'2rem'}>
             {science.slice(5,9).map(el=>{
-                return <Cards key={nanoid(4)} {...el} data={el}/>;
+                return <Cards key={nanoid(4)} {...el} />;
             })}
         </HStack>
       </Box>
@@ -253,12 +244,12 @@ const Home = () => {
       <Text fontWeight={'500px'} as ='h2' borderBottom={'3px solid red'} pb={'2px'} maxW={'10%'}>EDITOR'S PICK</Text>
       <HStack mt={'2rem'}>
             {tech.slice(14,18).map(el=>{
-                return <SSCard key={nanoid(4)} {...el} data={el}/>;
+                return <SSCard key={nanoid(4)} {...el} />;
             })}
         </HStack>
         <HStack mt={'2rem'}>
             {business.slice(14,18).map(el=>{
-                return <Cards key={nanoid(4)} {...el} data={el}/>;
+                return <Cards key={nanoid(4)} {...el} />;
             })}
         </HStack>
       </Box>
@@ -266,4 +257,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Tech;
