@@ -47,12 +47,14 @@ urlToImage: "https://i.ndtvimg.com/i/2016-05/pakistan-police_650x400_81463813394
         <VStack w={"55%"} p='1.4rem'>
            <Text fontWeight={'500px'} mr='64%' as ='h2'  pb={'2px'}>INDIA,WELLBEING,GENERAL</Text>
            <Heading>{topic?.title}</Heading>
-           <HStack>
-            <Text textAlign={'left'} fontSize={'18px'} color='red'>DECCAN CHRONICLE | {topic?.author}</Text>
+           <HStack alignItems='left' >
+            <div style={{textAlign: 'left'}}>
+            <Text ml={'-280px'}   fontSize={'18px'} color='red'>DECCAN CHRONICLE | {topic?.author}</Text>
+            </div>
            </HStack>
-           <Flex justify='space-around'>
-             <Text fontSize={'18px'}  color='gray' fontWeight='bold'>Published {topic?.publishedAt}</Text>
-             <Text fontSize={'18px'} color='gray' fontWeight='bold'>Updated  {topic?.publishedAt}</Text>
+           <Flex justify='space-between'  spacing={'20px'}>
+             <Text ml={'-80px'} fontSize={'14px'}  color='gray' fontWeight='bold'>Published {topic?.publishedAt}</Text>
+             <Text ml={'100px'} fontSize={'14px'} color='gray' fontWeight='bold'>Updated  {topic?.publishedAt}</Text>
            </Flex>
            <Flex>
             {/* icons */}
@@ -67,12 +69,12 @@ urlToImage: "https://i.ndtvimg.com/i/2016-05/pakistan-police_650x400_81463813394
            <Text  fontSize={'20px'} align={'justify'}>{topic?.description}</Text>  
            <Ads/>
            <HStack>
-           <Text  fontWeight={'bold'}>Tags:</Text>
+           <Text ml={'-290px'}  fontWeight={'bold'}>Tags:</Text>
            <Text  fontWeight={'bold'} color='red'>general,india</Text>
             </HStack>  
             <Text
               as="h2"
-              mr={"60%"}
+              ml={"-300px"}
               borderBottom={"3px solid red"}
               pb={"2px"}
               maxW={"100%"}
@@ -83,7 +85,7 @@ urlToImage: "https://i.ndtvimg.com/i/2016-05/pakistan-police_650x400_81463813394
              <Carsousel data={science}/>
             </Box>
             <Box pt={'2rem'}>
-      <Text fontWeight={'500px'} as ='h2' borderBottom={'3px solid red'} pb={'2px'} maxW={'10%'}>TECHNOLOGY</Text>
+      <Text fontWeight={'500px'} as ='h2' borderBottom={'3px solid red'} pb={'2px'} maxW={'20%'}>TECHNOLOGY</Text>
       <HStack mt={'2rem'}>
             {tech.slice(10,13).map(el=>{
                 return <SSCard key={nanoid(4)} {...el} data={el} />;
@@ -91,15 +93,15 @@ urlToImage: "https://i.ndtvimg.com/i/2016-05/pakistan-police_650x400_81463813394
         </HStack>        
       </Box>
       <Box pt={'2rem'}>
-      <Text fontWeight={'500px'} as ='h2' borderBottom={'3px solid red'} pb={'2px'} maxW={'6%'}>World</Text>
+      <Text fontWeight={'500px'} as ='h2' borderBottom={'3px solid red'} pb={'2px'} maxW={'10%'}>World</Text>
       <HStack mt={'2rem'}>
-            {tech.slice(7,10).map(el=>{
+          {tech.slice(8,11).map(el=>{
                 return <SSCard key={nanoid(4)} {...el} data={el} />;
             })}
         </HStack>
         <HStack mt={'2rem'}>
-            {tech.slice(7,10).map(el=>{
-                return <Cards key={nanoid(4)} {...el} data={el}/>;
+        {tech.slice(15,18).map(el=>{
+                return <SSCard key={nanoid(4)} {...el} data={el} />;
             })}
         </HStack>
       </Box>

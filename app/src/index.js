@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
+import axios from "axios";
 import reportWebVitals from "./reportWebVitals";
 import { ChakraProvider } from "@chakra-ui/react";
 import { BrowserRouter } from "react-router-dom";
@@ -9,9 +10,8 @@ import { Provider } from "react-redux";
 import { store } from "./Redux/store";
 import { ArticleProvider } from "./ArticleContext";
 
-// axios.defaults.baseURL =
-//   "https://newsapi.org/v2/top-headlines?country=in&apiKey=b2a6360a3d6d43be9e1c0e1ff86a4721";
-// axios.defaults.headers.post["Content-Type"] = "application/json";
+axios.defaults.baseURL="http://localhost:8080"
+axios.defaults.headers.post["Content-Type"]="application/json"
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(

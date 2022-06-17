@@ -42,7 +42,7 @@ const Tech = () => {
     // dispatch(getSports())
     // dispatch(getScience())
     // dispatch(getEntertainment())
-  }, []);
+  }, [dispatch,getData,getTech,getBusiness,getSports,getScience,getEntertainment]);
   console.log(science);
   
   if (loading) {

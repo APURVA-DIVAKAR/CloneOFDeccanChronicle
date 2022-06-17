@@ -1,17 +1,1214 @@
 {
-  "nation": [
+  "entertainment": [
     {
-      "id": 1,
-      "tags": "",
-      "location": "",
-      "category": "",
-      "title": "",
-      "published":"",
-      "updated": "",
-       "img":"",
-       "imgTitle":""
-       
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Horoscope Today: June 17, 2022 - VOGUE India",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LnZvZ3VlLmluL2hvcm9zY29wZS9jb2xsZWN0aW9uL2hvcm9zY29wZS10b2RheS1qdW5lLTE3LTIwMjIv0gFLaHR0cHM6Ly93d3cudm9ndWUuaW4vaG9yb3Njb3BlL2NvbGxlY3Rpb24vaG9yb3Njb3BlLXRvZGF5LWp1bmUtMTctMjAyMi9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-06-17T00:30:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Mirchi9.com" },
+      "author": null,
+      "title": "Virata Parvam Review, USA Premiere Report - Mirchi9",
+      "description": "Virata Parvam Movie Review, USA Premiere Report, Updates . Cast - Rana Daggubati, Sai Pallavi, Priyamani, Nivetha Pethuraj, Nandita Das, Naveen Chandra",
+      "url": "https://www.mirchi9.com/reviews/virata-parvam-movie-review/",
+      "urlToImage": "https://www.mirchi9.com/wp-content/uploads/2022/06/Virata-Parvam_Movie-Review.jpg",
+      "publishedAt": "2022-06-16T22:19:18Z",
+      "content": "Final Report:\r\nVirata Parvam is an honest effort and it must be appreciated. However, it is primarily a love story that lacks soul. The Naxal background is fine, but it feels like aimlessly wandering… [+1454 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "Dr Prem Kumar Sharma, Manisha Koushik",
+      "title": "Horoscope Today: Astrological prediction for June 17, 2022 - Hindustan Times",
+      "description": "Daily horoscope: Are the stars lined up in your favour? Find out the astrological prediction for Aries, Leo, Virgo, Libra and other zodiac signs for June 17, 2022. | Horoscope",
+      "url": "https://www.hindustantimes.com/astrology/horoscope/horoscope-today-astrological-prediction-for-june-17-2022-101655382046773.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/06/16/1600x900/Image_3_1655382115850_1655382126063.jpg",
+      "publishedAt": "2022-06-16T19:30:13Z",
+      "content": "All zodiac signs have their own characteristics and traits which define someones personality. Wouldnt it be helpful if you started your day by already knowing about whats going to come your way? Read… [+6257 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Priyanka Chopra Shares Glimpse of Her Daughter Malti Marie In Mom Madhu's Birthday Post - NDTV Movies",
+      "description": "\"Love you to the moon and back Nani,\" wrote Priyanka Chopra",
+      "url": "https://www.ndtv.com/entertainment/priyanka-chopra-shares-glimpse-of-her-daughter-malti-marie-in-mom-madhus-birthday-post-3074088",
+      "urlToImage": "https://c.ndtvimg.com/2022-06/7v2s8fa_priyanka_625x300_16_June_22.jpg",
+      "publishedAt": "2022-06-16T18:00:00Z",
+      "content": "Priyanka Chopra with daughter Malti Marie and mom Madhu. (courtesy: priyankachopra)\r\nPriyanka Chopra is celebrating her mother Madhu Chopra's birthday, and on this special occasion, she has shared an… [+2144 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Anthony D'Alessandro",
+      "title": "‘Doctor Strange In The Multiverse Of Madness’ Domestic Box Office Crosses $400M, 10th MCU Title To Do So - Deadline",
+      "description": "More box office milestones here as the theatrical business bounces back and the pandemic eases: Disney/Marvel’s Doctor Strange in the Multiverse of Madness crossed $400M yesterday at the domestic box office during its 41st day of release. The movie is still t…",
+      "url": "https://deadline.com/2022/06/doctor-strange-in-the-multiverse-of-madness-box-office-record-1235046883/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2022/05/doctor-strange-2.jpg?w=1024",
+      "publishedAt": "2022-06-16T16:50:00Z",
+      "content": "More box office milestones here as the theatrical business bounces back and the pandemic eases: Disney/Marvel’s Doctor Strange in the Multiverse of Madness crossed $400M yesterday at the domestic box… [+1426 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": null,
+      "title": "Farhan Akhtar and Shibani Dandekar's underwater video from Maldives goes viral - Times of India",
+      "description": "Newlyweds Farhan Akhtar and Shibani Dandekar, who had earlier postponed their honeymoon owing to their hectic work commitments, are now vacationing in Maldives. The couple who seem to be having a great time, shared a glimpse of their beach trip on their socia…",
+      "url": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/farhan-akhtar-and-shibani-dandekars-underwater-video-from-maldives-goes-viral/videoshow/92259546.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/92259546/size-51676/92259546.jpg",
+      "publishedAt": "2022-06-16T15:20:40Z",
+      "content": "Newlyweds Farhan Akhtar\r\n and Shibani Dandekar\r\n, who had earlier postponed their honeymoon owing to their hectic work commitments, are now vacationing in Maldives\r\n. The couple who seem to be having… [+571 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Samantha Ruth Prabhu Is A Sight To Behold In A Yellow Saree - NDTV Movies",
+      "description": "Samantha Ruth Prabhu has shared new pictures",
+      "url": "https://www.ndtv.com/entertainment/samantha-ruth-prabhu-is-a-sight-to-behold-in-a-yellow-saree-3073654",
+      "urlToImage": "https://c.ndtvimg.com/2022-06/2ni2pl5_samantha-ruth-prabhu_625x300_16_June_22.jpg",
+      "publishedAt": "2022-06-16T15:15:49Z",
+      "content": "Samantha Ruth Prabhu shared a picture. (courtesy: samantharuthprabhuoffl)\r\nNew Delhi: Samantha Ruth Prabhu often inspires her fans with her sartorial choices. The actress has shared new pictures on h… [+1537 chars]"
+    },
+    {
+      "source": { "id": null, "name": "News18" },
+      "author": "Entertainment Bureau",
+      "title": "Kiara Advani On Breakup Rumours With Sidharth Malhotra: 'Who These Mirch Masala Sources Are?' - News18",
+      "description": "In a recent interview, Kiara Advani mentioned that she is not completely immune to rumours regarding her personal life.",
+      "url": "https://www.news18.com/news/movies/kiara-advani-on-breakup-rumours-with-sidharth-malhotra-who-these-mirch-masala-sources-are-5385769.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/04/pjimage-68-3-165069986216x9.jpg",
+      "publishedAt": "2022-06-16T15:09:11Z",
+      "content": "Kiara Advani and Sidharth Malhotras break-up reports made headlines earlier this year and left their fans shocked and upset. It was later reported that the two actors patched up and decided to give a… [+1816 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "etimes.in",
+      "title": "Hrithik Roshan's grandmother Padma Rani OmPrakash passes away - Times of India",
+      "description": "Actor Hrithik Roshan's maternal grandfather, filmmaker J Om Prakash's wife Padma Rani Omprakash has passed away. Sh",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshans-grandfather-filmmaker-j-om-prakashs-wife-passes-away/articleshow/92259216.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-92259215,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-41778/92259215.jpg",
+      "publishedAt": "2022-06-16T14:45:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Entertainment Desk",
+      "title": "Kangana Ranaut gets Oscar-winning makeup artist David Malinowski for Emergency - Hindustan Times",
+      "description": "Kangana Ranaut has given a shoutout to prosthetic makeup artist David Malinowski, who will be working on the actor's transformation as Indira Gandhi in her upcoming film Emergency.",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/kangana-ranaut-brings-in-oscar-winning-makeup-artist-to-transform-her-into-indira-gandhi-for-emergency-101655382132214.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/06/16/1600x900/kangana_1655382800142_1655382800362.jpg",
+      "publishedAt": "2022-06-16T14:29:46Z",
+      "content": "Kangana Ranaut has got renowned prosthetic makeup artist David Malinowski on board for her upcoming directorial Emergency. The actor will be playing the role of Indira Gandhi in the political drama. … [+1637 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Mahesh Babu Is \"Making Memories\" With His Family In Italy, Shares Goofy Pics - NDTV Movies",
+      "description": "Mahesh Babu is busy exploring Europe with his family",
+      "url": "https://www.ndtv.com/entertainment/mahesh-babu-is-making-memories-with-his-family-in-italy-shares-goofy-pics-3073472",
+      "urlToImage": "https://c.ndtvimg.com/2022-06/805g37g_mahesh_625x300_16_June_22.jpg",
+      "publishedAt": "2022-06-16T14:26:04Z",
+      "content": "Mahesh Babu with his family. (courtesy: urstrulymahesh)\r\nNew Delhi:Mahesh Babu is on a much-needed vacation with his family - his wife Namrata Shirodkar, son Gautam and daughter Sitara after the succ… [+1533 chars]"
+    },
+    {
+      "source": { "id": null, "name": "India Today" },
+      "author": null,
+      "title": "Complaint against actor Sai Pallavi over remarks on Kashmiri Pandit exodus - India Today",
+      "description": "Bajrang Dal leaders have filed a police complaint against actor Sai Pallavi over her remarks on the Kashmiri Pandit exodus and cow vigilantism.",
+      "url": "https://www.indiatoday.in/india/story/police-complaint-against-actor-sai-pallavi-over-her-remarks-on-kashmiri-pandit-exodus-1963279-2022-06-16",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202206/Sail_Pallavi-647x363.png?CANKpVTQdEkF8xl4v.qQ_TXV3oD6OW2c",
+      "publishedAt": "2022-06-16T14:14:11Z",
+      "content": "A police complaint has been filed against actor Sai Pallavi for her comments on Kashmiri Pandit exodus and cow vigilantism.\r\nBajrang Dal leaders have filed a complaint with the Sultan Bazar police st… [+1624 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "etimes.in",
+      "title": "Jamie Lever mimics Rakhi Sawant leaving netizens in splits; one writes, 'This blew my mind, OMG' - Times of India",
+      "description": "Johnny Lever's daughter Jamie Lever is as good as her father when it comes to mimicking popular celebs. Her new vid",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/jamie-lever-mimics-rakhi-sawant-leaving-netizens-in-splits-a-netizen-writes-this-blew-my-mind-omg/articleshow/92258571.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-92258521,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/92258521.jpg",
+      "publishedAt": "2022-06-16T14:10:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Koimoi" },
+      "author": "Oshine Koul",
+      "title": "JugJugg Jeeyo Box Office Day 1: Just Like Kiara Advani, Varun Dhawan Too Has To Earn More Than 21 Crore To Set A New Benchmark - Koimoi",
+      "description": "For JugJugg Jeeyo to become Varun Dhawan’s highest opener, it must cross the 22 crore mark. Read on",
+      "url": "https://www.koimoi.com/box-office/jugjugg-jeeyo-box-office-day-1-just-like-kiara-advani-varun-dhawan-too-has-to-earn-more-than-21-crore-to-set-a-new-benchmark/",
+      "urlToImage": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2022/06/jugjugg-jeeyo-box-office-day-1-just-like-kiara-advani-varun-dhawan-too-has-to-earn-more-than-21-crore-deets-inside-001.jpg",
+      "publishedAt": "2022-06-16T13:16:13Z",
+      "content": "JugJugg Jeeyo Box Office Day 1: Just Like Kiara Advani, Varun Dhawan Too Has To Earn More Than 21 Crore ( Photo Credit A Still From JugJugg Jeeyo )\r\nAfter a long hiatus Varun Dhawan is returning to t… [+1933 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": "Sabrina Mathews",
+      "title": "Shweta Tiwari's Chic Summer Days Are Made Of Trendy Crop Tops - NDTV Swirlster",
+      "description": "Shweta Tiwari makes a stylish summer statement in her own casual chic flair",
+      "url": "https://swirlster.ndtv.com/style/shweta-tiwaris-chic-summer-days-are-made-of-trendy-crop-tops-3072931",
+      "urlToImage": "https://c.ndtvimg.com/2022-06/kdk63jng_shwetayellowcrop3_625x300_16_June_22.jpg",
+      "publishedAt": "2022-06-16T12:47:58Z",
+      "content": "Friends, kids and a summer to remember, Shweta Tiwari's vibe is just to live life right now and she is doing it in style too. Shweta Tiwari has time and again proved that casual chic outfits are tota… [+1718 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Neena Gupta Shares Glimpse Of Solo Santorini Trip On Popular Demand. More To Come - NDTV Movies",
+      "description": "Neena Gupta has promised many more such videos from her solo trip.",
+      "url": "https://www.ndtv.com/entertainment/neena-gupta-just-dropped-a-video-from-santorini-for-her-fans-and-it-is-all-kinds-of-perfect-3072722",
+      "urlToImage": "https://c.ndtvimg.com/2022-06/pfg13bmo_neena_625x300_16_June_22.jpg",
+      "publishedAt": "2022-06-16T12:29:19Z",
+      "content": "Neena Gupta shares video from her Santorini trip. (courtesy: NeenaGupta)\r\nNew Delhi: Neena Gupta never disappoints. Be it her films and shows or her interviews, the veteran actress is always a breath… [+1723 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Pregnant Sonam Kapoor, Through The \"No-Filter\" Lens Of Husband Anand Ahuja - NDTV Movies",
+      "description": "Sonam Kapoor and Anand Ahuja's posts make every day phenomenal",
+      "url": "https://www.ndtv.com/entertainment/pregnant-sonam-kapoor-through-the-no-filter-lens-of-husband-anand-ahuja-3072821",
+      "urlToImage": "https://c.ndtvimg.com/2022-06/ebb338l_-sonam-_625x300_16_June_22.jpg",
+      "publishedAt": "2022-06-16T11:42:16Z",
+      "content": "From Sonam Kapoor's maternity diaries.(courtesy: anandahuja)\r\nNew Delhi: Anand Ahuja delighted his Instafam with \"no-filter\" pictures of wife Sonam Kapoor on Thursday. In the pictures, Sonam Kapoor c… [+1448 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Greatandhra.com" },
+      "author": "Venkat",
+      "title": "Sammathame Trailer: Impressive Rom-com.. - Greatandhra",
+      "description": "Young hero Kiran Abbavaram’s different rom-com Sammathame is all set for release on 24th of this month.",
+      "url": "https://www.greatandhra.com/movies/news/sammathame-trailer-impressive-rom-com-121751",
+      "urlToImage": "https://www.greatandhra.com/newphotos10/samathame51655378999.jpg",
+      "publishedAt": "2022-06-16T11:30:08Z",
+      "content": "Young hero Kiran Abbavaram’s different rom-com Sammathame is all set for release on 24th of this month.\r\nTelangana IT Minister KTR launched the film’s theatrical trailer today and also wished the tea… [+1087 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Bollywood Life" },
+      "author": "Nikita Thakkar",
+      "title": "Trending TV News Today: Top actress' tantrums on Khatron Ke Khiladi 12; Kundali Bhagya's Shraddha Arya on Dhe - Bollywood Life",
+      "description": "Khatron Ke Khiladi 12, Kanika Mann, Shraddha Arya and many more TV celebrities rules the news circuit today. Here's why these celebrities made it to the headlines.",
+      "url": "https://www.bollywoodlife.com/photos/trending-tv-news-today-top-actress-tantrums-on-khatron-ke-khiladi-12-kundali-bhagyas-shraddha-arya-on-dheeraj-dhoopars-exit-and-more-tv-serial-entertainment-news-2103724/",
+      "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2022/06/Khatron-3-600x315.png",
+      "publishedAt": "2022-06-16T11:25:47Z",
+      "content": "The shooting for Rohit Shetty's show Khatron Ke Khiladi 12 has begun and a source has exclusively told us that a top actress is throwing starry tantrums on the sets. The source informed, 'She is beco… [+639 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Bollywood Hungama" },
+      "author": "Bollywood Hungama",
+      "title": "Brahmastra director Ayan Mukerji was upset with Ranbir Kapoor for choosing Sanju over him - Bollywood Hungama",
+      "description": "Brahmastra director Ayan Mukerji was upset with Ranbir Kapoor for choosing Sanju over him Bollywood News: Latest Bollywood News, Bollywood News Today, Bollywood Celebrity News, Breaking News, Celeb News, Celebrities News, Bollywood News Hindi, Hindi Bollywood…",
+      "url": "https://www.bollywoodhungama.com/news/features/brahmastra-director-ayan-mukerji-upset-ranbir-kapoor-choosing-sanju/",
+      "urlToImage": "https://stat2.bollywoodhungama.in/wp-content/uploads/2022/06/ranbir_kapoor_ayan_mukerji_bff_moments.jpg",
+      "publishedAt": "2022-06-16T10:29:45Z",
+      "content": "Readers would be aware that Brahmastra has been in the making for about eight years and amidst that the lead actors of the film, namely, Ranbir Kapoor and Alia Bhatt finished several other projects. … [+2037 chars]"
+    }
+  ],
+  "tech": [
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Jay Peters",
+      "title": "Capcom reveals Dragon's Dogma 2 is in development - The Verge",
+      "description": "Capcom is developing a sequel to its 2012 high fantasy action RPG Dragon’s Dogma, which it’s calling Dragon’s Dogma 2. It will take advantage of the RE Engine, which has been used for many of Capcom’s recent games.",
+      "url": "https://www.theverge.com/2022/6/16/23171808/capcom-dragons-dogma-2-re-engine-action-rpg",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/4SFFmPdiK3j6LgHg3P4hB6OyUeA=/0x25:1280x695/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23634276/10_Years_of_Dragon_s_Dogma_12_14_screenshot.png",
+      "publishedAt": "2022-06-16T23:42:55Z",
+      "content": "Titled, aptly, Dragons Dogma 2\r\nCapcom is developing a sequel to its 2012 high fantasy action RPG Dragons Dogma, the company announced Thursday. There are few official details, but we do know the tit… [+696 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ANI News" },
+      "author": null,
+      "title": "Realme C30 to launch on June 20, key specs confirmed - ANI News",
+      "description": "New Delhi [India], June 17 (ANI): The Realme C30 rendering was leaked last week, thus revealing its design to the world. The launch was touted by Realme on Thursday, as the company's branch in India announced that it would launch the smartphone at 12:30 pm lo…",
+      "url": "https://www.aninews.in/news/tech/mobile/realme-c30-to-launch-on-june-20-key-specs-confirmed20220617044059",
+      "urlToImage": "https://aniportalimages.s3.amazonaws.com/media/details/FVW5WBeXsAAj3tA2022061622383620220616231052.jpg",
+      "publishedAt": "2022-06-16T23:10:00Z",
+      "content": "New Delhi [India], June 17 (ANI): The Realme C30 rendering was leaked last week, thus revealing its design to the world. The launch was touted by Realme on Thursday, as the company's branch in India … [+1060 chars]"
+    },
+    {
+      "source": { "id": null, "name": "XDA Developers" },
+      "author": "Adam Conway",
+      "title": "Android 13 Beta 3.2 arrives with important bug fixes - XDA Developers",
+      "description": "Android 13 Beta 3.2 has arrived with a bunch of important bug fixes that improve the stability of your smartphone. Check it out!",
+      "url": "https://www.xda-developers.com/android-13-beta-3-2-released/",
+      "urlToImage": "https://www.xda-developers.com/files/2022/04/Android-13-logo-on-rainbow-gradient.jpg",
+      "publishedAt": "2022-06-16T22:54:00Z",
+      "content": "Android 13 is almost here, and the most recent beta update, Beta 3, arrived bringing finalized APIs. We’ve already had one hotfix update arrive since then, and now Google is in with a second one for … [+2449 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Final Fantasy 7 Rebirth - Official Reveal Trailer (Remake Part 2) - IGN",
+      "description": "The long-awaited Final Fantasy VII Remake part II project has finally been revealed with this trailer, and it's coming next Winter.#IGN #Gaming #FinalFantasy7",
+      "url": "https://www.youtube.com/watch?v=uAJP1uAuiZg",
+      "urlToImage": "https://i.ytimg.com/vi/uAJP1uAuiZg/maxresdefault.jpg",
+      "publishedAt": "2022-06-16T22:26:30Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "ANI News" },
+      "author": null,
+      "title": "Samsung Galaxy F13 with triple rear cameras teased by Flipkart - ANI News",
+      "description": "New Delhi [India], June 17 (ANI): Samsung is soon planning to unveil the Galaxy F1 which was spotted on Geekbench a few months ago. This revelation comes from the Indian online retail giant Flipkart.",
+      "url": "https://www.aninews.in/news/tech/mobile/samsung-galaxy-f13-with-triple-rear-cameras-teased-by-flipkart20220617034850",
+      "urlToImage": "https://aniportalimages.s3.amazonaws.com/media/details/FVYNvq2acAEi_Nz2022061622024320220616221841.jpg",
+      "publishedAt": "2022-06-16T22:18:00Z",
+      "content": "New Delhi [India], June 17 (ANI): Samsung is soon planning to unveil the Galaxy F1 which was spotted on Geekbench a few months ago. This revelation comes from the Indian online retail giant Flipkart.… [+1234 chars]"
+    },
+    {
+      "source": { "id": null, "name": "XDA Developers" },
+      "author": "Timi Cantisano",
+      "title": "Vivo X80 Pro Plus to launch with Snapdragon 8 Plus Gen 1 in October 2022 - XDA Developers",
+      "description": "It looks like the Vivo X80 Pro+ will see a release in 2022 afterall, set to make its debut sometime in October.",
+      "url": "https://www.xda-developers.com/vivo-x80-pro-plus-with-snapdragon-8-plus-gen-1/",
+      "urlToImage": "https://www.xda-developers.com/files/2022/06/vivo.jpg",
+      "publishedAt": "2022-06-16T21:40:00Z",
+      "content": "It was only a couple of months ago when Vivo announced the release of its Vivo X80 and Vivo X80 Pro. The Vivo X80 Pro offered the best of everything, even touting the latest Qualcomm Snapdragon 8 Gen… [+1643 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gadgets Now" },
+      "author": "Agencies",
+      "title": "The 4 Best Gaming Laptops to buy in 2022 - Gadgets Now",
+      "description": "Choosing the best gaming laptop in 2022 can be tricky. These three options on the market can help you decide on what works for you.It's no secret that PC gaming has become increasingly popular. In fact, it is now one of the most popular forms of entertainment…",
+      "url": "https://www.gadgetsnow.com/us/technology-news/the-4-best-gaming-laptops-to-buy-in-2022/articleshow/92226411.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,msid-92226411,imgsize-51078,width-800/92226411.jpg",
+      "publishedAt": "2022-06-16T21:23:56Z",
+      "content": "Choosing the best gaming laptop in 2022 can be tricky. These three options on the market can help you decide on what works for you.It's no secret that PC gaming has become increasingly popular. In fa… [+2432 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Northeast Now" },
+      "author": "NE NOW NEWS",
+      "title": "Garena Free Fire Redeem Codes For June 17, 2022: Get the New Vermilion Whirlwind bundle other Rewards - Northeast Now",
+      "description": "Garena Free Fire is the most exciting Battle Royale game, which gained a lot of popularity in India during the last few weeks, especially in absence of Pubg Mobile India.",
+      "url": "http://nenow.in/free-fire/garena-free-fire-redeem-codes-for-17-june-2022.html",
+      "urlToImage": "https://nenow.in/wp-content/uploads/2022/04/garena-free-fire.jpg",
+      "publishedAt": "2022-06-16T19:28:05Z",
+      "content": "Garena Free Fire is the most exciting battle royale game, which gained a lot of popularity in India during the last few weeks, especially in absence of Pubg Mobile India.\r\nNow it is becoming one of t… [+2609 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Sportskeeda" },
+      "author": "Zachary Roberts",
+      "title": "Why Dr. Slone could be hiding under the Fortnite map in a hatch - Sportskeeda",
+      "description": "Fortnite players have discovered a secret hatch on the island. The hatch is found to the west of Greasy Grove in a small inlet there. It's underwater and can't be seen unless gamers go in the water.",
+      "url": "https://www.sportskeeda.com/fortnite/why-dr-slone-hiding-fortnite-map-hatch",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/06/48fd2-16553854754416-1920.jpg",
+      "publishedAt": "2022-06-16T18:43:59Z",
+      "content": "Fortnite players have discovered a secret hatch on the island. The hatch is found to the west of Greasy Grove in a small inlet there. It's underwater and can't be seen unless gamers go in the water.\r… [+2522 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Redditors 7 Most Hyped Xbox & Bethesda Annoucements | Screen Rant - Screen Rant",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiQGh0dHBzOi8vc2NyZWVucmFudC5jb20veGJveC1iZXRoZXNkYS1oeXBlZC1hbm5vdW5jZW1lbnRzLXJlZGRpdC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T18:30:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "William Antonelli",
+      "title": "How to change phones without losing WhatsApp messages - Business Insider",
+      "description": "You can move all your WhatsApp messages to a new phone, whether it's an iPhone or Android, as you're first setting it up.",
+      "url": "https://www.businessinsider.com/how-to-change-phones-without-losing-whatsapp",
+      "urlToImage": "https://i.insider.com/62aa48aa8eacc300192de83e?width=1200&format=jpeg",
+      "publishedAt": "2022-06-16T18:25:56Z",
+      "content": "WhatsApp is the most popular messaging app in the world. But it's pretty strict about only letting you use it on one phone at a time and if you ever switch phones, you're at risk of losing all your m… [+5579 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Sportskeeda" },
+      "author": "Abhishek Mallick",
+      "title": "Valorant patch 5.0 early notes: Pearl set to hit the servers, new Ascendant rank, Split to be removed from Competitive queue, and more - Sportskeeda",
+      "description": "Valorant patch 5.0 will be released next week on Wednesday, June 22, 2022, and it will introduce Episode 5 to the servers across all regions.",
+      "url": "https://www.sportskeeda.com/valorant/news-valorant-patch-5-0-early-notes-pearl-set-hit-servers-new-ascendant-rank-split-removed-competitive-queue",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/06/a219e-16554004276194-1920.jpg",
+      "publishedAt": "2022-06-16T18:02:00Z",
+      "content": "Valorant patch 5.0 will be released next week on Wednesday, June 22, 2022, and it will introduce Episode 5 to the servers across all regions.\r\nApart from the new Episode, the shooter will also be rec… [+3033 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Overwatch Animated Short | “The Wastelander” [4K] - PlayOverwatch",
+      "description": "Discover the origin story of Junker Queen's rise to the throne of Junkertown in our animated short: The Wastelander!Overwatch 2 arrives October 4 free to pla...",
+      "url": "https://www.youtube.com/watch?v=8-nXN9ZMl8o",
+      "urlToImage": "https://i.ytimg.com/vi/8-nXN9ZMl8o/hqdefault.jpg",
+      "publishedAt": "2022-06-16T17:41:58Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "How to install the iOS 16 beta and unlock new features on your iPhone - 9to5Mac",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjVwQ4oYl4jc",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T17:39:39Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": { "id": null, "name": "Sportskeeda" },
+      "author": "Soumyadeep Banerjee",
+      "title": "Bungie is looking to improve the New Light experience after Destiny 2 The Final Shape - Sportskeeda",
+      "description": "The current storyline of Destiny 2 goes deep into the Light vs Dark saga, as Guardians started wielding the power of Darkness at the start of Year 4.",
+      "url": "https://www.sportskeeda.com/esports/news-bungie-looking-improve-new-light-experience-destiny-2-the-final-shape",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/06/53911-16553931692713-1920.jpg",
+      "publishedAt": "2022-06-16T16:55:39Z",
+      "content": "The current storyline of Destiny 2 goes deep into the Light vs Dark saga, as Guardians started wielding the power of Darkness at the start of Year 4. Being almost halfway into The Witch Queen's seaso… [+2308 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Lenovo’s Smart Clock Essential now comes with Alexa - BusinessLine",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vc3BlY2lhbHMvdGVjaG5vcGhpbGUvbGVub3Zvcy1zbWFydC1jbG9jay1lc3NlbnRpYWwtbm93LWNvbWVzLXdpdGgtYWxleGEvYXJ0aWNsZTY1NTM0MjY0LmVjZdIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T16:14:47Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "GSMArena.com" },
+      "author": "Michail",
+      "title": "Poco F4 5G to launch on June 23 - GSMArena.com news - GSMArena.com",
+      "description": "It will be powered by the Snapdragon 870 with up to 12GB RAM.",
+      "url": "https://www.gsmarena.com/poco_f4_5g_to_launch_on_june_23-news-54701.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/06/poco-f4-5g-june-23/-952x498w6/gsmarena_00.jpg",
+      "publishedAt": "2022-06-16T15:29:01Z",
+      "content": "After numerous teasers, Poco India finally confirmed its F4 5G smartphone is launching on June 23. The brand previously confirmed Snapdragon 870 chipset and up to 12GB RAM.\r\nThe launch will be livest… [+455 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Tech",
+      "title": "5G smartphone under 15000? Vivo T1 5G, iQOO Z6 5G to Realme 9 5G, check top 5 - HT Tech",
+      "description": "Finding a good 5G smartphone on a tight budget? Check out Vivo T1 5G, iQOO Z6 5G, Realme 9 5G, and more here.",
+      "url": "https://tech.hindustantimes.com/mobile/news/5g-smartphone-under-15000-vivo-t1-5g-iqoo-z6-5g-to-realme-9-5g-check-top-5-71655392267636.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2022/06/16/1600x900/HT_Tech_(51)_1655392847158_1655392859924.jpg",
+      "publishedAt": "2022-06-16T15:21:55Z",
+      "content": "If you are looking for a 5G smartphone under 15000, then you are at the right place as there are a number of options that you can consider right now. But if your budget is limited to Rs. 15000, then,… [+1597 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ThePrint" },
+      "author": null,
+      "title": "Samsung might not release Galaxy S22 FE version - ThePrint",
+      "description": "Seoul [South Korea], June 16 (ANI): South Korean tech giant Samsung’s line of Fan Edition (FE) phones, which got its start with the Galaxy S20 FE, as per new rumours won’t have the Galaxy S22 FE. According to GSM Arena, it looks like the company might be read…",
+      "url": "https://theprint.in/tech/samsung-might-not-release-galaxy-s22-fe-version/999641/",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T15:14:29Z",
+      "content": "Seoul [South Korea], June 16 (ANI): South Korean tech giant Samsung’s line of Fan Edition (FE) phones, which got its start with the Galaxy S20 FE, as per new rumours won’t have the Galaxy S22 FE.\r\nAc… [+915 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "ASUS launches the Vivobook 16X, Vivobook Pro 14 OLED & ZenBook S 13 OLED in India - gizmochina",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vd3d3Lmdpem1vY2hpbmEuY29tLzIwMjIvMDYvMTYvYXN1cy1sYXVuY2hlcy12aXZvYm9vay0xNngtdml2b2Jvb2stcHJvLTE0LW9sZWQtYW5kLXplbmJvb2stcy0xMy1vbGVkLWluZGlhL9IBeGh0dHBzOi8vd3d3Lmdpem1vY2hpbmEuY29tLzIwMjIvMDYvMTYvYXN1cy1sYXVuY2hlcy12aXZvYm9vay0xNngtdml2b2Jvb2stcHJvLTE0LW9sZWQtYW5kLXplbmJvb2stcy0xMy1vbGVkLWluZGlhLz9hbXA9MQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T15:05:25Z",
+      "content": null
+    }
+  ],
+  "sports": [
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Devendra Pandey",
+      "title": "Batting for Bengal: Ranji team star by day, minister and TMC MLA at night - The Indian Express",
+      "description": "An aggressive right-handed batsman who represented India in 12 one-day internationals and three T20s, Tiwary is fully aware that his Team India dream is over, and his non-selection in the last IPL auction has also brought down the curtains on his participatio…",
+      "url": "https://indianexpress.com/article/sports/cricket/batting-for-bengal-ranji-team-star-by-day-minister-and-tmc-mla-at-night-7974260/",
+      "urlToImage": "https://images.indianexpress.com/2021/03/Screenshot-2021-03-15T225939.782.png",
+      "publishedAt": "2022-06-17T01:17:00Z",
+      "content": "FROM RESCUING the Bengal Ranji team by hitting a century during the day, to wading through files of official documents, as West Bengals Minister for Youth Affairs and Sports and Trinamool Congress ML… [+3565 chars]"
+    },
+    {
+      "source": { "id": null, "name": "India.com" },
+      "author": "India.com Sports Desk",
+      "title": "SL vs AUS ODI Highlights Scorecard, Pallekele: Bowlers Derail Australia's Chase As Sri Lanka Won By 26 Runs - India.com",
+      "description": "<B>SL vs AUS 2nd ODI Scorecard: Sri Lanka won by 26 runs (DLS). </B>",
+      "url": "https://www.india.com/sports/sl-vs-aus-odi-highlights-cricket-scorecard-sri-lanka-vs-australia-3rd-odi-sonyliv-pallekele-sl-won-by-26-runs-dls-karunaratne-wellalage-chameera-maxwell-cummins-5456764/",
+      "urlToImage": "https://static.india.com/wp-content/uploads/2022/06/Collage-Maker-16-Jun-2022-12.41-PM.jpg",
+      "publishedAt": "2022-06-16T18:03:17Z",
+      "content": "Highlights SL vs AUS 2nd ODI Scorecard As It Happened: Sri Lanka won by 26 runs (DLS).Also Read - SL vs AUS 2nd ODI Dream11 Team Prediction, Australia Tour Of Sri Lanka, Fantasy Hints: Captain, Vice-… [+3606 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": "ESPNcricinfo staff",
+      "title": "Hayley Matthews, Stafanie Taylor and Deandra Dottin set to captain Women's CPL teams - ESPNcricinfo",
+      "description": "Barbados Royals, Guyana Amazon Warriors and Trinbago Knight Riders will contest the tournament hosted by St Kitts, which is set to begin on August 30",
+      "url": "https://www.espncricinfo.com/story/womens-cpl-hayley-matthews-stafanie-taylor-deandra-dottin-to-captain-in-three-team-tournament-1320271",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/335800/335808.6.jpg",
+      "publishedAt": "2022-06-16T17:53:21Z",
+      "content": "NewsBarbados Royals, Guyana Amazon Warriors and Trinbago Knight Riders will contest the tournament hosted by St Kitts, which is set to begin on August 30"
+    },
+    {
+      "source": { "id": null, "name": "Barca Blaugranes" },
+      "author": "Josh Suttr",
+      "title": "Sevilla don’t want Barcelona players in return for Jules Kounde - report - Barca Blaugranes",
+      "description": "The Andalusians just want cash",
+      "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/2022/6/16/23171016/sevilla-dont-want-barcelona-players-in-return-for-jules-kounde-report",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Vyf1Jd5LuI0zjvK_AEeukI5P55o=/0x357:5000x2975/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23632772/1241293066.jpg",
+      "publishedAt": "2022-06-16T17:30:00Z",
+      "content": "Jules Kounde is a nice name that has popped up in the Barcelona transfer purview this summer. The French defender is a solid piece for the future and is likely to cost a bit of money, which leaves ou… [+464 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": "ESPNcricinfo staff",
+      "title": "William Porterfield announces international retirement, shifts focus to coaching - ESPNcricinfo",
+      "description": "His exit follows that of seamer Peter Chase who had hung up his boots last week",
+      "url": "https://www.espncricinfo.com/story/ireland-cricket-william-porterfield-announces-international-retirement-shifts-focus-to-coaching-1320279",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/327000/327061.6.jpg",
+      "publishedAt": "2022-06-16T16:50:06Z",
+      "content": "William Porterfield captained Ireland in the 2011 and 2015 ODI World Cups  •  Sportsfile via Getty Images"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": "Matt Roller",
+      "title": "Pieter Seelaar admits to 'frustrations' as key Netherlands players put county over country - ESPNcricinfo",
+      "description": "Clash with T20 Blast means marquee contest will lack several top-drawer home players",
+      "url": "https://www.espncricinfo.com/story/netherlands-vs-england-pieter-seelaar-admits-to-frustrations-as-key-netherlands-players-put-county-over-country-1320268",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/341100/341121.6.jpg",
+      "publishedAt": "2022-06-16T16:43:06Z",
+      "content": "If ODIs feel irrelevant now, just wait till the next FTP cycle"
+    },
+    {
+      "source": { "id": null, "name": "DAWN.com" },
+      "author": "AFP",
+      "title": "India asks female coaches to chaperone athletes after harassment claims - DAWN.com",
+      "description": "Top sprint team coach RK Sharma was sacked last week after a cyclist said he had attempted to “forcefully” coerce her into sex.",
+      "url": "https://www.dawn.com",
+      "urlToImage": "http://www.dawn.com/_img/social-default.jpg",
+      "publishedAt": "2022-06-16T16:02:18Z",
+      "content": "Indian sports authorities have told female coaches to chaperone women athletes on tour after a sexual harassment scandal shook the country's elite cycling community.\r\nTop sprint team coach RK Sharma … [+1479 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cricbuzz" },
+      "author": null,
+      "title": "Buoyed India aim for series decider | Cricbuzz.com - Cricbuzz - Cricbuzz",
+      "description": "Quinton de Kock is in contention to return to the playing XI having missed the last couple of games",
+      "url": "https://www.cricbuzz.com/cricket-news/122669/buoyed-india-aim-for-series-decider-cricbuzzcom",
+      "urlToImage": "//m.cricbuzz.com/a/img/v1/600x400/i1/c236055/india-pulled-one-back-in-vizag-after-losing-the-opening-two-games.jpg",
+      "publishedAt": "2022-06-16T15:42:58Z",
+      "content": "India have the top batter, the top three bowlers, and two of the top three totals in their T20I series against South Africa. What the home side don't have is the series lead. Thus they have no option… [+4209 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Sports Desk",
+      "title": "'Team management hasn’t given him confidence. He did well up front but...' - Hindustan Times",
+      "description": "Temba Bavuma's side will take chances and try to return to winning ways, while India will look forward to continuing their winning run against the Proteas.",
+      "url": "https://www.hindustantimes.com/cricket/team-management-hasn-t-given-him-confidence-he-did-well-up-front-but-nehra-picks-avesh-khan-replacement-for-4th-t20i-101655390203533.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/06/16/1600x900/PTI06-14-2022-000431A-0_1655391803001_1655391840548.jpg",
+      "publishedAt": "2022-06-16T15:05:05Z",
+      "content": "Led by Rishabh Pant, India will be looking forward to levelling the series when they take on South Africa in another must-win Twenty20 game at Rajkot on Friday. After outplaying India in the first tw… [+2339 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cricbuzz" },
+      "author": null,
+      "title": "West Indies vs Bangladesh, 1st Test, Bangladesh tour of West Indies, 2022 - Cricbuzz",
+      "description": "Follow West Indies vs Bangladesh, 1st Test, Jun 16, Bangladesh tour of West Indies, 2022 with live Cricket score, ball by ball commentary updates on Cricbuzz",
+      "url": "https://www.cricbuzz.com/cricket-commentary/47848/wi-vs-ban-1st-test-bangladesh-tour-of-west-indies-2022",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T14:44:11Z",
+      "content": "17:32 Local Time, 21:32 GMT, 03:02 IST: West Indies' day, hands down! Won the toss, opted to field and removed three wickets in 31 balls. Tamim looked quite settled at the crease but he was strangled… [+942 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Insidesport.in" },
+      "author": null,
+      "title": "India Tour of England: Indian team reaches LONDON, Rohit Sharma to leave on Friday: Follow LIVE - InsideSport",
+      "description": "India Tour of England: Virat Kohli and other members of India team REACHES London, Rohit Sharma to LEAVE on Friday: Follow LIVE UPDATES, IND vs ENG LIVE",
+      "url": "https://www.insidesport.in/india-tour-of-england-virat-kohli-and-other-members-of-india-team-reaches-london-rohit-sharma-to-leave-on-friday-follow-live-updates/",
+      "urlToImage": "https://www.insidesport.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-16-at-9.41.24-AM.jpeg?w=696",
+      "publishedAt": "2022-06-16T14:28:53Z",
+      "content": "India Tour of England – IND vs ENG LIVE: Virat Kohli, pacer Jasprit Burmah and other members of the Indian team have reached London. But Rohit Sharma will leave on Friday.   The Indian team boarded f… [+4774 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": "Hemant Brar",
+      "title": "Harshal Patel: 'My job is to stay one step ahead of the batters' - ESPNcricinfo",
+      "description": "Seamer backs himself to adapt well despite batters trying to anticipate his variations",
+      "url": "https://www.espncricinfo.com/story/ind-vs-sa-4th-t20i-2022-harshal-patel-my-job-is-to-stay-one-step-ahead-of-the-batters-1320261",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/340900/340996.6.jpg",
+      "publishedAt": "2022-06-16T14:07:26Z",
+      "content": "NewsSeamer backs himself to adapt well despite batters trying to anticipate his variations\r\nIndia seamer Harshal Patel is not worried that batters have started anticipating his variations. In the fir… [+2638 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cricbuzz" },
+      "author": null,
+      "title": "ACC Women's T20 Championship returns after nine years | Cricbuzz.com - Cricbuzz - Cricbuzz",
+      "description": "The tournament will kickstart on June 17, 2022 in Malaysia with the top two making it to the ACC Women's T20 Asia Cup",
+      "url": "https://www.cricbuzz.com/cricket-news/122664/acc-womens-t20-championship-returns-after-nine-years",
+      "urlToImage": "http://www.cricbuzz.com/a/img/v1/600x400/i1/c236041/hong-kong-will-be-one-of-the-t.jpg",
+      "publishedAt": "2022-06-16T13:31:14Z",
+      "content": "Hong Kong will be one of the ten participating teams. © Getty\r\nThe ACC Women's T20 Championship will make a successful return after a hiatus of over nine years on Friday (June 17). The Malaysian Cric… [+1294 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Barca Blaugranes" },
+      "author": "Gill Clark",
+      "title": "‘Thanks for everything friend’ - Xavi reacts to Dani Alves exit - Barca Blaugranes",
+      "description": "The Brazilian is leaving for a second time",
+      "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/2022/6/16/23170709/thanks-for-everything-friend-xavi-reacts-to-dani-alves-exit",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/krO5BAJsqu9Jk1Nfyr8zf2X-k78=/0x0:4282x2242/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23632330/1240585743.jpg",
+      "publishedAt": "2022-06-16T13:00:00Z",
+      "content": "Dani Alves said goodbye to Barcelona for a second time on Wednesday and coach and former team-mate Xavi was quick to react to the Brazilians departure.\r\nXavi responded to Alvess Instagram farewell me… [+1416 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Ranji Trophy: Mumbai, MP in pole position | Cricbuzz.com - Cricbuzz - Cricbuzz",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmNyaWNidXp6LmNvbS9jcmlja2V0LW5ld3MvMTIyNjYzL3JhbmppLXRyb3BoeS1tdW1iYWktbXAtaW4tcG9sZS1wb3NpdGlvbi1jcmljYnV6emNvbdIBYWh0dHA6Ly9tLmNyaWNidXp6LmNvbS9hbXAvY3JpY2tldC1uZXdzLzEyMjY2My9yYW5qaS10cm9waHktbXVtYmFpLW1wLWluLXBvbGUtcG9zaXRpb24tY3JpY2J1enpjb20?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T12:45:45Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Cricbuzz" },
+      "author": null,
+      "title": "England cricket include Jamie Overton for Leeds Test | Cricbuzz.com - Cricbuzz - Cricbuzz",
+      "description": "The 28-year-old, who will join his twin brother Craig in the squad, has been in excellent form in the ongoing County Championship for league leaders Surrey",
+      "url": "https://www.cricbuzz.com/cricket-news/122662/england-include-jamie-overton-for-leeds-test",
+      "urlToImage": "http://www.cricbuzz.com/a/img/v1/600x400/i1/c236039/jamie-has-been-in-excellent-fo.jpg",
+      "publishedAt": "2022-06-16T12:30:05Z",
+      "content": "The 28-year-old, who will join his twin brother Craig in the squad, has been in excellent form in the ongoing County Championship for league leaders Surrey, having taken 21 wickets this season at an … [+666 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": "Hemant Brar",
+      "title": "Anrich Nortje 'not 100% there yet' but hopes he is on the right path - ESPNcricinfo",
+      "description": "The South Africa quick had suffered back and hip injuries last year",
+      "url": "https://www.espncricinfo.com/story/ind-vs-sa-4th-t20i-2022-anrich-nortje-not-100-there-yet-but-hopes-he-is-on-the-right-path-1320223",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/340600/340611.6.jpg",
+      "publishedAt": "2022-06-16T12:27:00Z",
+      "content": "NewsThe South Africa quick had suffered back and hip injuries last year\r\nSouth Africa fast bowler Anrich Nortje is still some way away from being at the level he was before his back and hip injuries,… [+3539 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cricbuzz" },
+      "author": null,
+      "title": "Alcoholic haze to rediscovering love for cricket - Salil Ankola's flight to redemption, Mumbai cricket | Cricbuzz.com - Cricbuzz - Cricbuzz",
+      "description": "The former India fast bowler is back to cricket after having endured a long journey away from the game - of lost money, of anger issues, of alcoholism, of denial and despise towards the game",
+      "url": "https://www.cricbuzz.com/cricket-news/122661/alcoholic-haze-to-rediscovering-love-for-cricket-ankolas-flight-to-redemption",
+      "urlToImage": "http://www.cricbuzz.com/a/img/v1/600x400/i1/c236035/salil-ankola-has-rediscovered.jpg",
+      "publishedAt": "2022-06-16T12:05:06Z",
+      "content": "Salil Ankola has rediscovered his love for the game after his battles with alcoholism. PC - Salil Ankola ©Cricbuzz \r\nIn 2021, six years after his last drink, Salil Ankola returned to a game that he h… [+13463 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cricketaddictor.com" },
+      "author": null,
+      "title": "Zaheer Khan Picks His India Playing XI For The 4th T20I vs South Africa - Cricket Addictor",
+      "description": ".",
+      "url": "https://cricketaddictor.com/south-africa-tour-of-india-2022/ind-vs-sa-zaheer-khan-picks-indias-playing-xi-vs-south-africa-for-the-4th-t20i/",
+      "urlToImage": "https://cricketaddictor.com/wp-content/uploads/2022/06/Zaheer-Khan-India-XI-4th-T20I.png",
+      "publishedAt": "2022-06-16T11:35:01Z",
+      "content": "Former pacer Zaheer Khan has unveiled his pick for India’s playing XI for the upcoming fourth T20I against South Africa, which will be played on June 17 at Rajkot. India trails 1-2 in the series and … [+2142 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Devon Conway tests positive for COVID-19 | Cricbuzz.com - Cricbuzz - Cricbuzz",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmNyaWNidXp6LmNvbS9jcmlja2V0LW5ld3MvMTIyNjYwL2Rldm9uLWNvbndheS10ZXN0cy1wb3NpdGl2ZS1mb3ItY292aWQtMTktY3JpY2J1enpjb23SAWJodHRwOi8vbS5jcmljYnV6ei5jb20vYW1wL2NyaWNrZXQtbmV3cy8xMjI2NjAvZGV2b24tY29ud2F5LXRlc3RzLXBvc2l0aXZlLWZvci1jb3ZpZC0xOS1jcmljYnV6emNvbQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T10:36:57Z",
+      "content": null
+    }
+  ],
+  "science": [
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Jet Propulsion Laboratory makes Dr. Laurie Leshin its first female director - CBS Los Angeles",
+      "description": "For the first time in history, NASA's Jet Propulsion Laboratory appointed a woman to lead the pioneering space research center.",
+      "url": "https://www.youtube.com/watch?v=9aZR6uHbbdg",
+      "urlToImage": "https://i.ytimg.com/vi/9aZR6uHbbdg/hqdefault.jpg",
+      "publishedAt": "2022-06-17T00:13:09Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "ESA Maps History of Milky Way Galaxy, Predicts Its Future - Voice of America",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNNz0liyoPqk",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T21:44:51Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Narcity" },
+      "author": "Josh Elliott",
+      "title": "Chris Hadfield Can't Wait For The New Moon Missions & He Says It's Like A 'New Frontier' - Narcity Canada",
+      "description": "The first rocket blasts off very soon!🚀",
+      "url": "https://www.narcity.com/chris-hadfield-new-moon-missions-says-new-frontier",
+      "urlToImage": "https://www.narcity.com/media-library/chris-hadfield-at-the-audi-innovation-series-event-right-nasa-s-artemis-i-rocket-and-the-moon.jpg?id=29981957&width=1200&coordinates=0%2C0%2C0%2C72&height=600",
+      "publishedAt": "2022-06-16T21:11:18Z",
+      "content": "NASA is expected to take its first steps toward returning to the moon this year, and retired Canadian astronaut Chris Hadfield couldnt be more excited.\r\nThe former commander of the International Spac… [+3490 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Jennifer Ouellette",
+      "title": "Astronomers reveal the most detailed map of the asteroid Psyche yet - Ars Technica",
+      "description": "NASA's Psyche mission to study the asteroid launches later this year.",
+      "url": "https://arstechnica.com/science/2022/06/astronomers-reveal-the-most-detailed-map-of-the-asteroid-psyche-yet/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/psycheTOP-760x380.jpg",
+      "publishedAt": "2022-06-16T20:56:29Z",
+      "content": "Enlarge/ Astronomers at MIT and elsewhere have mapped the composition of asteroid Psyche, revealing a surface of metal, sand, and rock.\r\n19 with 16 posters participating\r\nAstronomers have produced th… [+4578 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Business Insider India" },
+      "author": "Paola Rosa-Aquino",
+      "title": "Biologists reconstruct ancient genome of E. coli bacteria from the gallstone of a 16th century mummy - Business Insider India",
+      "description": "Researchers reconstructed the genetic code of E. coli bacteria from an Italian nobleman who died in 1586. E. coli is commonly found in human and animal intestines,",
+      "url": "https://www.businessinsider.in/science/news/biologists-reconstruct-ancient-genome-of-e-coli-bacteria-from-the-gallstone-of-a-16th-century-mummy/articleshow/92263272.cms",
+      "urlToImage": "https://www.businessinsider.in/photo/92263272/biologists-reconstruct-ancient-genome-of-e-coli-bacteria-from-the-gallstone-of-a-16th-century-mummy.jpg?imgsize=105848",
+      "publishedAt": "2022-06-16T19:29:00Z",
+      "content": "E. coli, short for Escherichia coli, has been among the most thoroughly studied bacteria\r\n since it was discovered in the 19th century, but researchers are only starting to understand its evolutionar… [+1775 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Bollyinside.com" },
+      "author": null,
+      "title": "NASA’s Psyche delay means secondary asteroid missions will have to adjust their target - BollyInside",
+      "description": "The postponement of NASA’s Psyche mission to explore what is assumed to be the exposed core of a protoplanet has thrown a wrench into preparations for two",
+      "url": "https://www.bollyinside.com/news/nasas-psyche-delay-means-secondary-asteroid-missions-will-have-to-adjust-their-target",
+      "urlToImage": "https://www.bollyinside.com/wp-content/uploads/2022/06/NASAs-Psyche-delay-means-secondary-asteroid-missions-will-have-to.jpeg",
+      "publishedAt": "2022-06-16T19:09:17Z",
+      "content": "The postponement of NASAs Psyche mission to explore what is assumed to be the exposed core of a protoplanet has thrown a wrench into preparations for two small tag-along spacecraft to visit nearby as… [+1877 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Bollyinside.com" },
+      "author": null,
+      "title": "Repeated fast radio bursts from space are puzzling, this one is much stranger. - BollyInside",
+      "description": "The National Radio Astronomy Observatory in the United States determined that a rapid radio burst (FRB) observed in 2019 shares an unusual feature with",
+      "url": "https://www.bollyinside.com/news/repeated-fast-radio-bursts-from-space-are-puzzling-this-one-is-much-stranger",
+      "urlToImage": "https://www.bollyinside.com/wp-content/uploads/2022/06/Repeated-fast-radio-bursts-from-space-are-puzzling-this-one.jpeg",
+      "publishedAt": "2022-06-16T18:56:46Z",
+      "content": "The National Radio Astronomy Observatory in the United States determined that a rapid radio burst (FRB) observed in 2019 shares an unusual feature with only one other FRB out of the 500-plus discover… [+2330 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Gravitas: Human trash found on Mars - WION",
+      "description": "NASA's rover Perseverance has spotted human trash on Mars. Who went all the way to the red planet to litter? Palki Sharma brings you a report.#Trash #Mars #G...",
+      "url": "https://www.youtube.com/watch?v=RDnCiDp1DaU",
+      "urlToImage": "https://i.ytimg.com/vi/RDnCiDp1DaU/maxresdefault.jpg",
+      "publishedAt": "2022-06-16T18:55:20Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "The Shillong Times" },
+      "author": "Agencies",
+      "title": "Astronomers find fastest-growing black hole of past 9 bn years - The Shillong Times",
+      "description": "An international team of astronomers has discovered the fastest-growing black hole of the last nine billion years.The black hole consumes the equivalent of one Earth every second and shines 7,000 times brighter than all the light from our own galaxy,",
+      "url": "https://theshillongtimes.com/2022/06/17/astronomers-find-fastest-growing-black-hole-of-past-9-bn-years/",
+      "urlToImage": "https://theshillongtimes.com/wp-content/uploads/2022/06/blackhole-pg-9.jpg",
+      "publishedAt": "2022-06-16T18:51:03Z",
+      "content": "An international team of astronomers has discovered the fastest-growing black hole of the last nine billion years.The black hole consumes the equivalent of one Earth every second and shines 7,000 tim… [+1498 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Phys.Org" },
+      "author": "Science X staff",
+      "title": "Did supernovae help form Barnard's Loop? - Phys.org",
+      "description": "Astronomers studying the structure of the Milky Way galaxy have released the highest-resolution 3D view of the Orion star-forming region. The image and interactive figure were presented today at a press conference hosted by the American Astronomical Society.",
+      "url": "https://phys.org/news/2022-06-supernovae-barnard-loop.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2022/did-supernovae-help-fo.jpg",
+      "publishedAt": "2022-06-16T18:28:28Z",
+      "content": "Astronomers studying the structure of the Milky Way galaxy have released the highest-resolution 3D view of the Orion star-forming region. The image and interactive figure were presented today at a pr… [+5295 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "UNM Health Delivering More COVID Times Commercial - 30 Sec. - UNM Health Sciences",
+      "description": "2021 UNM Health Commercial - Delivering MoreCOVID19 Times - Video 2When it comes to your health, what does delivering more mean? It means the state’s only ac...",
+      "url": "https://www.youtube.com/watch?v=_RL6vE3phro",
+      "urlToImage": "https://i.ytimg.com/vi/_RL6vE3phro/maxresdefault.jpg",
+      "publishedAt": "2022-06-16T18:22:17Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Inverse" },
+      "author": "Doris Elín Urrutia",
+      "title": "Gaseous and scorching “hot Jupiters” make tilted loops around their parent stars - Inverse",
+      "description": "Scorching ''hot-Jupiters\" sometimes orbit their parent stars along wonky orbits. Astronomers are trying to understand why — and if it happens in our own Solar System.",
+      "url": "https://www.inverse.com/science/hot-jupiters",
+      "urlToImage": "https://imgix.bustle.com/uploads/getty/2022/6/16/03bc900d-ccb8-4421-8db6-77ffd27be0d9-getty-1322287912.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "publishedAt": "2022-06-16T18:15:25Z",
+      "content": "A fiery type\r\n of alien world called a hot Jupiter can enter a tilted orbit relative to its parent star, and a new study could help puzzled researchers get to the bottom of why.\r\nIn March, NASA annou… [+4692 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Phys.Org" },
+      "author": "Science X staff",
+      "title": "Martian meteorite upsets planet formation theory - Phys.org",
+      "description": "A new study of an old meteorite contradicts current thinking about how rocky planets like the Earth and Mars acquire volatile elements such as hydrogen, carbon, oxygen, nitrogen and noble gases as they form. The work is published June 16 in Science.",
+      "url": "https://phys.org/news/2022-06-martian-meteorite-planet-formation-theory.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/meteorite.jpg",
+      "publishedAt": "2022-06-16T18:00:05Z",
+      "content": "A new study of an old meteorite contradicts current thinking about how rocky planets like the Earth and Mars acquire volatile elements such as hydrogen, carbon, oxygen, nitrogen and noble gases as th… [+4083 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "A rogue black hole spotted near Milky Way, and could kick planets into deep space - DNAIndiaNews",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTWMzGos6-3I",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T17:38:25Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": { "id": null, "name": "Phys.Org" },
+      "author": "Matt Williams",
+      "title": "There could be four hostile civilizations in the Milky Way, researcher speculates - Phys.org",
+      "description": "In 1977, the Big Ear Radio Telescope at Ohio State University picked up a strong narrowband signal from space. The signal was a continuous radio wave that was strong in intensity and frequency and had many expected characteristics of an extraterrestrial trans…",
+      "url": "https://phys.org/news/2022-06-hostile-civilizations-milky-speculates.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/there-could-be-four-ho.jpg",
+      "publishedAt": "2022-06-16T17:01:34Z",
+      "content": "In 1977, the Big Ear Radio Telescope at Ohio State University picked up a strong narrowband signal from space. The signal was a continuous radio wave that was strong in intensity and frequency and ha… [+12308 chars]"
+    },
+    {
+      "source": { "id": null, "name": "News9live.com" },
+      "author": "News9 Staff",
+      "title": "NASA and ESA establish a research group for the Mars sample return mission - News9 LIVE",
+      "description": "The Mars Sample Return Campaign Science Group is made up of 16 scientists",
+      "url": "https://www.news9live.com/science/nasa-and-esa-establish-a-research-group-for-the-mars-sample-return-mission-176844",
+      "urlToImage": "https://media.news9live.com/h-upload/2022/06/16/433208-920526684pia25277-webcropped1.jpg",
+      "publishedAt": "2022-06-16T16:32:18Z",
+      "content": "NASA and ESA has assembled an international team of researchers to maximise the scientific potential of rock and sediment samples returned from Mars. The first of these sample return missions is expe… [+1751 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "The Buffalo News 2022 Guide to Medicare - The Buffalo News",
+      "description": "5 key takeaways from the Buffalo News 2022 Guide to Medicare webinar.Medicare is complex. We broke it down.",
+      "url": "https://www.youtube.com/watch?v=oEky0VEYlUI",
+      "urlToImage": "https://i.ytimg.com/vi/oEky0VEYlUI/maxresdefault.jpg",
+      "publishedAt": "2022-06-16T15:37:43Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "DNA India" },
+      "author": "Parul Sharma",
+      "title": "Cosmic cannibalism! Dead star caught ripping up planetary system, here’s more about ‘white dwarf’ - DNA India",
+      "description": "As part of a cosmic cannibalism, a white dwarf is the remains of a dead star when it sheds out its outer layers and stops burning fuel.",
+      "url": "https://www.dnaindia.com/science/report-cosmic-cannibalism-dead-star-caught-ripping-up-planetary-system-here-s-more-about-white-dwarf-2961211",
+      "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/06/16/2347954-untitled-design-77.png",
+      "publishedAt": "2022-06-16T15:14:00Z",
+      "content": "Reported By:| Edited By: Parul Sharma |Source: DNA Web Desk |Updated: Jun 16, 2022, 08:51 PM ISTA rare cosmic phenomenon has caught the attention of astronomers and researchers across the globe. Arch… [+2552 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Moon samples collected by China show evidence of water - VideoFromSpace",
+      "description": "Analysis of moon samples collected and returned to Earth by China's Chang'e 5 mission shows \"at least one hydrous mineral, hydroxyapatite, proving the existe...",
+      "url": "https://www.youtube.com/watch?v=R4uQQFg96G0",
+      "urlToImage": "https://i.ytimg.com/vi/R4uQQFg96G0/hqdefault.jpg",
+      "publishedAt": "2022-06-16T14:41:29Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Phys.Org" },
+      "author": "Science X staff",
+      "title": "Scientists unravel mechanism for melting of DNA double helix - Phys.org",
+      "description": "Researchers at the Francis Crick Institute have uncovered how the double helix structure of DNA is opened to allow DNA replication. The work could lead to further studies to better understand this process including how it can go wrong in diseases, such as can…",
+      "url": "https://phys.org/news/2022-06-scientists-unravel-mechanism-dna-helix.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2022/scientists-unravel-key.jpg",
+      "publishedAt": "2022-06-16T14:08:47Z",
+      "content": "Researchers at the Francis Crick Institute have uncovered how the double helix structure of DNA is opened to allow DNA replication. The work could lead to further studies to better understand this pr… [+2800 chars]"
+    }
+  ],
+  "buisness": [
+    {
+      "source": { "id": null, "name": "Autocarindia.com" },
+      "author": "Soham Thakur",
+      "title": "Top 10 motorcycles sold in May 2022 - Autocar India",
+      "description": "This month&amp;#8217;s bestsellers include three Hero and two Bajaj motorcycles, among others.",
+      "url": "https://www.autocarindia.com/bike-news/top-10-motorcycles-sold-in-may-2022-424815",
+      "urlToImage": "https://cdni.autocarindia.com/ExtraImages/20220616020030_Collage for sales story.jpg",
+      "publishedAt": "2022-06-17T01:30:00Z",
+      "content": "This months bestsellers include three Hero and two Bajaj motorcycles, among others.Overall two-wheeler sales in the country for the month of May 2022 stood at 12,53,187 units, with motorcycles accoun… [+4291 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Dogecoin Investor Sues Elon Musk For $258 Billion Over Crypto Support - NDTV",
+      "description": "An investor in dogecoin, originally created as a joke but whose value increased and fell as it was promoted by Elon Musk, filed a $258 billion lawsuit Thursday against the billionaire and his companies Tesla and SpaceX.",
+      "url": "https://www.ndtv.com/world-news/dogecoin-investor-sues-elon-musk-for-258-billion-over-crypto-support-3074474",
+      "urlToImage": "https://c.ndtvimg.com/2022-05/g6enr48g_elon-musk_625x300_20_May_22.jpg",
+      "publishedAt": "2022-06-17T01:00:47Z",
+      "content": "Dogecoin investor asked Musk to pay double that in damages -- an additional $172 billion.\r\nNew York: An investor in dogecoin, originally created as a joke but whose value increased and fell as it was… [+2180 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Tesla made up nearly 70% of assisted-driving crashes in last year | World News | WION Fineprint - WION",
+      "description": "Tesla driving on the car's Autopilot function were involved in 273 crashes over roughly the last year, according to new US data. Molly Gambhir tells you how ...",
+      "url": "https://www.youtube.com/watch?v=TfjROkcBw1U",
+      "urlToImage": "https://i.ytimg.com/vi/TfjROkcBw1U/maxresdefault.jpg",
+      "publishedAt": "2022-06-16T19:38:09Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Why is the crypto market crashing? | International News | Business News Update | WION Fineprint - WION",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dbxe570nqOCk",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T19:31:39Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Gravitas: US Fed announces highest interest hike since 1994 - WION",
+      "description": "The Federal Reserve announced a 75 basis point interest rate hike, their highest since 1994. How did markets react to this announcement? Will it be enough to...",
+      "url": "https://www.youtube.com/watch?v=SbY99qTABb8",
+      "urlToImage": "https://i.ytimg.com/vi/SbY99qTABb8/maxresdefault.jpg",
+      "publishedAt": "2022-06-16T18:24:30Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Job Cuts To Aliens: 5 Things Elon Musk Discussed With Twitter Employees - NDTV",
+      "description": "Elon Musk today interacted with Twitter employees during the company's townhall. This was the Tesla chief's first interaction with the staff since he announced a $44 billion takeover bid in April.",
+      "url": "https://www.ndtv.com/world-news/job-cuts-to-aliens-5-things-elon-musk-discussed-with-twitter-employees-3074235",
+      "urlToImage": "https://c.ndtvimg.com/2022-05/jul1dlq8_elon-musk-afp_625x300_18_May_22.jpg",
+      "publishedAt": "2022-06-16T18:24:30Z",
+      "content": "Elon Musk had a 10-minute freewheeling chat with the employees.\r\nNew Delhi: Elon Musk today interacted with Twitter employees during the company's townhall. This was the Tesla chief's first interacti… [+1987 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Sharmistha Mukherjee",
+      "title": "Two out of every five car buyers opted for an SUV in the first five months of 2022 - Economic Times",
+      "description": "Given the growing demand, automakers are going all out to offer feature-rich entry-level SUVs — which with a share of 21 per cent — has emerged as the largest segment in the local market.",
+      "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/two-out-of-every-five-car-buyers-opted-for-an-suv-in-the-first-five-months-of-2022/articleshow/92261511.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-92261527,width-1070,height-580,imgsize-79764,overlay-economictimes/photo.jpg",
+      "publishedAt": "2022-06-16T17:21:00Z",
+      "content": "Two out of every five car buyers in the Indian market opted for a SUV in the first five months of the year, cementing consumer preference for the body style in a market where hatchbacks comprised nea… [+2389 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Moneycontrol" },
+      "author": "PTI",
+      "title": "Sebi penalises Yashovardhan Birla, 6 others in Zenith Birla GDR case - Moneycontrol",
+      "description": "In a case involving alleged irregularities in Zenith Birla's worldwide depository receipts, capital markets regulator Sebi fined seven firms a total of Rs 10.80 crore on Thursday, including Zenith Steel Pipes &amp; Industries Ltd (erstwhile Zenith Birla (Indi…",
+      "url": "https://www.moneycontrol.com/news/business/markets/sebi-penalises-yashovardhan-birla-6-others-in-zenith-birla-gdr-case-8697751.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/09/SEBI_Reuters-770x433.jpg",
+      "publishedAt": "2022-06-16T16:01:34Z",
+      "content": "Capital markets regulator Sebi on Thursday imposed a penalty totalling Rs 10.80 crore on seven entities, including Zenith Steel Pipes &amp; Industries Ltd (erstwhile Zenith Birla (India) Ltd and Yash… [+2922 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CarToq.com" },
+      "author": "Paarth Khatri",
+      "title": "Skoda Slavia with 8-inch touchscreen infotainment spotted at dealership [Images] - CarToq.com",
+      "description": "A few weeks ago, Skoda announced that they will be fitting the Slavia with a new 8-inch touchscreen infotainment system. This system replaces the larger Skoda’s 10-inch unit. The 8-inch unit is made by Panasonic. Volkswagen will also be doing a similar downgr…",
+      "url": "https://www.cartoq.com/skoda-slavia-with-8-inch-touchscreen-infotainment-spotted-at-dealership-images/",
+      "urlToImage": "https://www.cartoq.com/wp-content/uploads/2022/06/slavia-8-inch-touchscreen-featured.jpg",
+      "publishedAt": "2022-06-16T15:58:30Z",
+      "content": "A few weeks ago, Skoda announced that they will be fitting the Slavia with a new 8-inch touchscreen infotainment system. This system replaces the larger Skoda’s 10-inch unit. The 8-inch unit is made … [+2860 chars]"
+    },
+    {
+      "source": { "id": null, "name": "India Today" },
+      "author": null,
+      "title": "Tesla employees who were fired earlier this month share their experience on LinkedIn - India Today",
+      "description": "Tesla CEO Elon Musk said that the company will have to let go 10 per cent of the work force as he was concerned about the country's economy.",
+      "url": "https://www.indiatoday.in/technology/news/story/tesla-employees-who-were-fired-earlier-this-month-share-their-experience-on-linkedin-1963297-2022-06-16",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202206/SGSX6GN275LUBO7BYXKEUSIIIY-647x363.jpeg?ruszS0uTjOpfp0jjdGjJsZdozwKS8rBk",
+      "publishedAt": "2022-06-16T15:39:07Z",
+      "content": "Tesla CEO Elon Musk recently announced that the company will let go 10 per cent of its staff as he was concerned about the countrys economy. The electric car company fired employees from different di… [+2040 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Gayatri Nayak",
+      "title": "Emerging market economies, including India, need to keep foreign exchange reserves liquid: RBI paper - Economic Times",
+      "description": "Our results indicate that there is a 5 percent chance of portfolio outflows from India of the order of 3.2 percent of GDP or US $ 100.6 billion in a year in response to a COVID-type contraction in real GDP growth, or a global financial crisis -GFC- type decli…",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/emerging-market-economies-including-india-need-to-keep-foreign-exchange-reserves-liquid-rbi-paper/articleshow/92259632.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-92259730,width-1070,height-580,imgsize-67334,overlay-economictimes/photo.jpg",
+      "publishedAt": "2022-06-16T15:20:00Z",
+      "content": "Emerging market economies, including India, need to keep foreign exchange reserves liquid after building a substantial buffer as in extreme cases like the global financial crisis or Covid outbreak th… [+2475 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Moneycontrol" },
+      "author": "PTI",
+      "title": "Jio adds 16.8 lakh mobile subscribers in April; Airtel gains 8.1 lakh users - Moneycontrol",
+      "description": "Vodafone Idea lost about 15.7 lakh mobile subscribers during April 2022, the monthly subscriber data released by the Telecom Regulatory Authority of India (TRAI) on Thursday showed.",
+      "url": "https://www.moneycontrol.com/news/telecom/jio-adds-16-8-lakh-mobile-subscribers-in-april-airtel-gains-8-1-lakh-users-8697671.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2017/03/reliance_jio_telecom_720-770x433.jpg",
+      "publishedAt": "2022-06-16T15:18:54Z",
+      "content": "India's largest telecom operator Reliance Jio gained 16.8 lakh mobile subscribers in April, cementing its lead in the market, while Bharti Airtel added 8.1 lakh users, according to TRAI data.\r\nVodafo… [+1251 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Sensex, Nifty drag to 52-week lows: 10 factors behind stock market fall - Times of India",
+      "description": "Markets News: Across-the-board selling played havoc on the headline indices, with index majors Reliance Industries and HDFC twins contributing most to the decline.",
+      "url": "https://timesofindia.indiatimes.com/business/markets/sensex/sensex-nifty-drag-to-52-week-lows-10-factors-behind-stock-market-fall/articleshow/92256553.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-92258253,width-1070,height-580,imgsize-61394,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2022-06-16T13:51:00Z",
+      "content": ""
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "US Cosmetics Giant Revlon Files For Bankruptcy - NDTV",
+      "description": "US cosmetics giant Revlon has filed for bankruptcy after years of stiff competition from rivals focused on online sales and supply chain problems.",
+      "url": "https://www.ndtv.com/world-news/us-cosmetics-giant-revlon-files-for-bankruptcy-3073006",
+      "urlToImage": "https://c.ndtvimg.com/2022-06/n93nm84g_reuters-image_625x300_11_June_22.jpg",
+      "publishedAt": "2022-06-16T13:32:02Z",
+      "content": "Revlon reported a net loss of $67 million from January to March.\r\nNew York: US cosmetics giant Revlon has filed for bankruptcy after years of stiff competition from rivals focused on online sales and… [+1678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBCTV18" },
+      "author": "Sandeep Singh",
+      "title": "Trade setup for June 17: Nifty50 could be headed to 15,000 after Fed sends it sinking below key support - CNBCTV18",
+      "description": "Trade setup for Friday, June 17: The Nifty50 could be headed all the way to 15,000, having given up a crucial support level decisively, warn experts. Here's what the technical charts suggest.",
+      "url": "https://www.cnbctv18.com/market/trade-setup-june-17-bse-sensex-nifty-market-crash-after-fed-rate-hike-75-bps-fomc-technical-support-resistance-crude-oil-brent-vix-13842802.htm",
+      "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2019/12/DealingRoom_Sensex_Nifty_Market_Broker-770x433.jpg",
+      "publishedAt": "2022-06-16T13:29:00Z",
+      "content": "Indian equity benchmarks slumped to 13-month lows on Thursday, failing to hold on to initial gains, as nervousness set in across investors globally after the Fed announced the biggest hike in the key… [+6162 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Prachi Ahluwalia",
+      "title": "TVS to launch new two-wheeler on July 6: Zeppelin on the cards? - Times of India",
+      "description": "Bikes News: TVS Motor is planning to launch a new two-wheeler in the Indian market on 6th July 2022. The brand has shared a BYD (Block Your Date) invite with the",
+      "url": "https://timesofindia.indiatimes.com/auto/bikes/tvs-to-launch-new-two-wheeler-on-july-6-zeppelin-on-the-cards/articleshow/92257696.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-92257677,width-1070,height-580,imgsize-14280,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2022-06-16T13:26:00Z",
+      "content": ""
+    },
+    {
+      "source": { "id": null, "name": "Livemint" },
+      "author": "Meghna Sen",
+      "title": "RBI allows Mastercard to onboard new customers after a 11-month hiatus | Mint - Mint",
+      "description": "RBI had earlier barred Mastercard from onboarding new domestic customers on its network over non-compliance with local data storage guidelines",
+      "url": "https://www.livemint.com/news/india/rbi-allows-mastercard-to-onboard-new-customers-in-india-11655383783678.html",
+      "urlToImage": "https://images.livemint.com/img/2022/06/16/600x338/Mastercard_1655384060940_1655384061094.JPG",
+      "publishedAt": "2022-06-16T12:58:34Z",
+      "content": "Almost a year after barring Mastercard Asia/Pacific Pte Ltd from onboarding new domestic customers on its network, the Reserve Bank of India (RBI) on Thursday lifted business restrictions imposed on … [+45 chars]"
+    },
+    {
+      "source": { "id": null, "name": "News18" },
+      "author": "Business Desk",
+      "title": "ICICI Bank Increases Interest Rates on FD; Know How Much Return Will You Get Now - News18",
+      "description": "ICICI Bank has also joined the list of banks, including Punjab National Bank and State Bank of India, that have pushed up their interest rates",
+      "url": "https://www.news18.com/news/business/icici-bank-increases-interest-rates-on-fd-know-how-much-return-will-you-get-now-5384887.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/04/icici-bank-1-165130828616x9.jpg",
+      "publishedAt": "2022-06-16T12:53:50Z",
+      "content": "ICICI FD interest rates: As the Reserve Bank of India (RBI) has raised its key repo rate by 50 basis points last week to control inflation in the country, banks are following the suit by increasing t… [+2759 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Team-BHP" },
+      "author": "Tushar Kelshikar",
+      "title": "Ford resumes export production at Tamil Nadu plant - Team-BHP",
+      "description": "Ford has resumed production for exports at its Tamil Nadu plant after striking workers agreed to return to work. A section of employees had gone on strike on May 30 demanding a better severance package. Reports suggest that more than 300 workers have now give…",
+      "url": "https://www.team-bhp.com/news/ford-resumes-export-production-tamil-nadu-plant",
+      "urlToImage": "https://www.team-bhp.com/sites/default/files/styles/large/public/fordindiaprivatelimited.jpg",
+      "publishedAt": "2022-06-16T12:38:23Z",
+      "content": "Ford has resumed production for exports at its Tamil Nadu plant after striking workers agreed to return to work.\r\nA section of employees had gone on strike on May 30 demanding a better severance pack… [+645 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "ETtech",
+      "title": "TCS wins Qiagen deal to drive cloud transformation - Economic Times",
+      "description": "The new digital core will help improve internal and external collaboration, innovation, and customer experience. Additionally, it will improve operational agility and resilience, drive efficiency, reduce Qiagens carbon footprint and support its journey to net…",
+      "url": "https://economictimes.indiatimes.com/tech/information-tech/tcs-wins-qiagen-deal-to-drive-cloud-transformation/articleshow/92256618.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-92256631,width-1070,height-580,imgsize-33880,overlay-ettech/photo.jpg",
+      "publishedAt": "2022-06-16T12:35:00Z",
+      "content": "Mumbai: said on Thursday that the company has been selected by Qiagen, a provider of Sample to Insights solutions in life sciences and molecular diagnostics, as the strategic partner for its cloud tr… [+1280 chars]"
+    }
+  ],
+  "news": [
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Express News Service",
+      "title": "Agnipath scheme: Govt raises upper age to 23 for this year after protests - The Indian Express",
+      "description": "The Central Government had unveiled Agnipath on Tuesday under which most soldiers will leave service in just four years -- 45,000 to 50,000 aspirants will be recruited annually but only 25 per cent will be allowed to continue for another 15 years under perman…",
+      "url": "https://indianexpress.com/article/india/govt-raises-agnipath-upper-age-to-23-for-this-year-after-protests-7974259/",
+      "urlToImage": "https://images.indianexpress.com/2022/06/bihar-protest.jpg",
+      "publishedAt": "2022-06-17T01:48:21Z",
+      "content": "With key NDA ally JD(U) leading calls for an immediate review of Agnipath, the new short-term recruitment policyfor the Armed Forces, after violent protests seeking a rollback erupted in several stat… [+7669 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "\"Condemn Offensive Comments Made By 2 BJP Officials\": US On Prophet Row - NDTV",
+      "description": "The United States on Thursday condemned remarks by Indian ruling party officials about the Prophet Mohammed that have sparked an uproar in Muslim countries.",
+      "url": "https://www.ndtv.com/india-news/condemn-offensive-comments-made-by-2-bjp-officials-us-on-prophet-row-3074520",
+      "urlToImage": "https://c.ndtvimg.com/2022-06/8435b8d_bjp-spokesperson-nupur-sharma_650x400_06_June_22.jpg",
+      "publishedAt": "2022-06-17T01:30:26Z",
+      "content": "The BJP suspended Nupur Sharma and Naveen Kumar Jindal for derogatory remarks on prophet.\r\nWashington: The United States on Thursday condemned remarks by Indian ruling party officials about the Proph… [+1436 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Devendra Pandey",
+      "title": "Batting for Bengal: Ranji team star by day, minister and TMC MLA at night - The Indian Express",
+      "description": "An aggressive right-handed batsman who represented India in 12 one-day internationals and three T20s, Tiwary is fully aware that his Team India dream is over, and his non-selection in the last IPL auction has also brought down the curtains on his participatio…",
+      "url": "https://indianexpress.com/article/sports/cricket/batting-for-bengal-ranji-team-star-by-day-minister-and-tmc-mla-at-night-7974260/",
+      "urlToImage": "https://images.indianexpress.com/2021/03/Screenshot-2021-03-15T225939.782.png",
+      "publishedAt": "2022-06-17T01:17:00Z",
+      "content": "FROM RESCUING the Bengal Ranji team by hitting a century during the day, to wading through files of official documents, as West Bengals Minister for Youth Affairs and Sports and Trinamool Congress ML… [+3565 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Sourav Roy Barman",
+      "title": "Presidential polls: Mamata steers Oppn talks, with a nudge from Pawar - The Indian Express",
+      "description": "Conscious attempts were made to avoid giving an impression that it was a 'Mamata show'",
+      "url": "https://indianexpress.com/article/political-pulse/presidential-polls-mamata-steers-oppn-talks-with-a-nudge-from-pawar-7973976/",
+      "urlToImage": "https://images.indianexpress.com/2022/06/Mamata-1-2.jpg",
+      "publishedAt": "2022-06-17T01:15:54Z",
+      "content": "The three-time chief minister’s assertion was projected as a sign of her determination to open a new chapter in Opposition politics, with her party, the Trinamool Congress, as the fulcrum, replacing … [+4279 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Express News Service",
+      "title": "World Kidney Cancer Day: People over 40 must get screened yearly, says doctor - The Indian Express",
+      "description": "Dr Priyadarshi Ranjan, Director, Urology, Robotics and Kidney Transplant Surgery, Fortis Mohali, explains in an advisory the causes and ways to detect renal cancer.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/world-kidney-cancer-day-people-over-40-must-get-screened-yearly-says-doctor-7974357/",
+      "urlToImage": "https://images.indianexpress.com/2022/06/kidney_1200_getty.jpg",
+      "publishedAt": "2022-06-16T22:32:00Z",
+      "content": "Although, kidney cancer (also known as renal cancer) is one of the deadliest malignancies affecting humankind at a productive age group, awareness about the disease continues to be low. If not diagno… [+2327 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Dhananjay Mahapatra",
+      "title": "Follow process of law to raze illegal structures, Supreme Court tells UP - Times of India",
+      "description": "India News: The SC did not stay further demolition of alleged illegal structures in the state, as fervently sought by the Jamiat through a battery of seasoned law",
+      "url": "https://timesofindia.indiatimes.com/india/follow-process-of-law-to-raze-illegal-structures-supreme-court-tells-up/articleshow/92263441.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-92263508,width-1070,height-580,imgsize-78846,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2022-06-16T20:19:00Z",
+      "content": "1. Your house can be demolished if authorities make it \"look fair\"Supreme quote: With bulldozers becoming a signature of administrations displeasure with the protests without permission in Uttar Prad… [+158 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Protests against India's new military recruitment system turn violent - Reuters",
+      "description": "Police in northern India fired shots in the air on Thursday to push back stone-throwing crowds and authorities shut off mobile internet in at least one district to forestall further chaos, as protests widened against a new military recruitment system.",
+      "url": "https://www.reuters.com/world/india/protests-break-out-india-over-new-military-recruitment-system-2022-06-16/",
+      "urlToImage": "https://www.reuters.com/resizer/ayAW6Y6zq-xFh5scwszZUdAwD9c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4O7QLGL3WBMPPPKMFAPT2AEEWM.jpg",
+      "publishedAt": "2022-06-16T20:00:00Z",
+      "content": "LUCKNOW, India, June 16 (Reuters) - Police in northern India fired shots in the air on Thursday to push back stone-throwing crowds and authorities shut off mobile internet in at least one district to… [+3329 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "Dr Prem Kumar Sharma, Manisha Koushik",
+      "title": "Horoscope Today: Astrological prediction for June 17, 2022 - Hindustan Times",
+      "description": "Daily horoscope: Are the stars lined up in your favour? Find out the astrological prediction for Aries, Leo, Virgo, Libra and other zodiac signs for June 17, 2022. | Horoscope",
+      "url": "https://www.hindustantimes.com/astrology/horoscope/horoscope-today-astrological-prediction-for-june-17-2022-101655382046773.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/06/16/1600x900/Image_3_1655382115850_1655382126063.jpg",
+      "publishedAt": "2022-06-16T19:30:13Z",
+      "content": "All zodiac signs have their own characteristics and traits which define someones personality. Wouldnt it be helpful if you started your day by already knowing about whats going to come your way? Read… [+6257 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Northeast Now" },
+      "author": "NE NOW NEWS",
+      "title": "Garena Free Fire Redeem Codes For June 17, 2022: Get the New Vermilion Whirlwind bundle other Rewards - Northeast Now",
+      "description": "Garena Free Fire is the most exciting Battle Royale game, which gained a lot of popularity in India during the last few weeks, especially in absence of Pubg Mobile India.",
+      "url": "http://nenow.in/free-fire/garena-free-fire-redeem-codes-for-17-june-2022.html",
+      "urlToImage": "https://nenow.in/wp-content/uploads/2022/04/garena-free-fire.jpg",
+      "publishedAt": "2022-06-16T19:28:05Z",
+      "content": "Garena Free Fire is the most exciting battle royale game, which gained a lot of popularity in India during the last few weeks, especially in absence of Pubg Mobile India.\r\nNow it is becoming one of t… [+2609 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "\"Fans of Frogs...\": Putin Aide Snubs European Leaders' Kyiv Visit - NDTV",
+      "description": "In a show of support to Ukraine following its invasion by Russia, the leaders of France, Germany and Italy met President Volodymyr Zelensky on Thursday.",
+      "url": "https://www.ndtv.com/world-news/the-clock-s-ticking-dmitry-medvedev-s-tweet-as-germany-italy-and-france-leaders-reach-ukraine-3072976",
+      "urlToImage": "https://c.ndtvimg.com/2022-06/lh6qaomo_macron-zelensky-ukraine-afp-_120x90_17_June_22.jpg?im=FeatureCrop,algorithm=dnn,width=650,height=400",
+      "publishedAt": "2022-06-16T18:56:33Z",
+      "content": "European leaders' Kyiv visit was deemed as an empty gesture by DmitryA. Medvedev.\r\nIn a show of support to Ukraine following its invasion by Russia, the leaders of France, Germany and Italy met Presi… [+2052 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Gravitas: Human trash found on Mars - WION",
+      "description": "NASA's rover Perseverance has spotted human trash on Mars. Who went all the way to the red planet to litter? Palki Sharma brings you a report.#Trash #Mars #G...",
+      "url": "https://www.youtube.com/watch?v=RDnCiDp1DaU",
+      "urlToImage": "https://i.ytimg.com/vi/RDnCiDp1DaU/maxresdefault.jpg",
+      "publishedAt": "2022-06-16T18:55:20Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Gravitas: US Fed announces highest interest hike since 1994 - WION",
+      "description": "The Federal Reserve announced a 75 basis point interest rate hike, their highest since 1994. How did markets react to this announcement? Will it be enough to...",
+      "url": "https://www.youtube.com/watch?v=SbY99qTABb8",
+      "urlToImage": "https://i.ytimg.com/vi/SbY99qTABb8/maxresdefault.jpg",
+      "publishedAt": "2022-06-16T18:24:30Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Job Cuts To Aliens: 5 Things Elon Musk Discussed With Twitter Employees - NDTV",
+      "description": "Elon Musk today interacted with Twitter employees during the company's townhall. This was the Tesla chief's first interaction with the staff since he announced a $44 billion takeover bid in April.",
+      "url": "https://www.ndtv.com/world-news/job-cuts-to-aliens-5-things-elon-musk-discussed-with-twitter-employees-3074235",
+      "urlToImage": "https://c.ndtvimg.com/2022-05/jul1dlq8_elon-musk-afp_625x300_18_May_22.jpg",
+      "publishedAt": "2022-06-16T18:24:30Z",
+      "content": "Elon Musk had a 10-minute freewheeling chat with the employees.\r\nNew Delhi: Elon Musk today interacted with Twitter employees during the company's townhall. This was the Tesla chief's first interacti… [+1987 chars]"
+    },
+    {
+      "source": { "id": null, "name": "India.com" },
+      "author": "India.com Sports Desk",
+      "title": "SL vs AUS ODI Highlights Scorecard, Pallekele: Bowlers Derail Australia's Chase As Sri Lanka Won By 26 Runs - India.com",
+      "description": "<B>SL vs AUS 2nd ODI Scorecard: Sri Lanka won by 26 runs (DLS). </B>",
+      "url": "https://www.india.com/sports/sl-vs-aus-odi-highlights-cricket-scorecard-sri-lanka-vs-australia-3rd-odi-sonyliv-pallekele-sl-won-by-26-runs-dls-karunaratne-wellalage-chameera-maxwell-cummins-5456764/",
+      "urlToImage": "https://static.india.com/wp-content/uploads/2022/06/Collage-Maker-16-Jun-2022-12.41-PM.jpg",
+      "publishedAt": "2022-06-16T18:03:17Z",
+      "content": "Highlights SL vs AUS 2nd ODI Scorecard As It Happened: Sri Lanka won by 26 runs (DLS).Also Read - SL vs AUS 2nd ODI Dream11 Team Prediction, Australia Tour Of Sri Lanka, Fantasy Hints: Captain, Vice-… [+3606 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Priyanka Chopra Shares Glimpse of Her Daughter Malti Marie In Mom Madhu's Birthday Post - NDTV Movies",
+      "description": "\"Love you to the moon and back Nani,\" wrote Priyanka Chopra",
+      "url": "https://www.ndtv.com/entertainment/priyanka-chopra-shares-glimpse-of-her-daughter-malti-marie-in-mom-madhus-birthday-post-3074088",
+      "urlToImage": "https://c.ndtvimg.com/2022-06/7v2s8fa_priyanka_625x300_16_June_22.jpg",
+      "publishedAt": "2022-06-16T18:00:00Z",
+      "content": "Priyanka Chopra with daughter Malti Marie and mom Madhu. (courtesy: priyankachopra)\r\nPriyanka Chopra is celebrating her mother Madhu Chopra's birthday, and on this special occasion, she has shared an… [+2144 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deccan Herald" },
+      "author": "Prasad Nichenametla",
+      "title": "ED row: Congress protest turns violent in Hyderabad; Renuka Chowdhury grabs cop's collar - Deccan Herald",
+      "description": "Former Union Minister and senior Congress leader Renuka Chowdhury was on Thursday seen allegedly grabbing the collar of a police official during a protest here by the party against the grilling of top party leader Rahul Gandhi by the Enforcement Directorate (…",
+      "url": "https://www.deccanherald.com/national/national-politics/ed-row-congress-protest-turns-violent-in-hyderabad-renuka-chowdhury-grabs-cops-collar-1118697.html",
+      "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/06/16/clipboard-11-1118697-1655402500.jpg",
+      "publishedAt": "2022-06-16T17:57:02Z",
+      "content": "Telangana Congress party activists went berserk in Hyderabad on Thursday during their attempt to lay siege to the Raj Bhavan protesting the Enforcement Directorate's grilling of their leader Rahul Ga… [+1827 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Education Desk",
+      "title": "Maharashtra Board SSC Result 2022 at result.mh-ssc.ac.in: MSBSHSE Class 10th SSC Result 2021 to be declared at mahresult.nic.in - The Indian Express",
+      "description": "MSBSHSE, Maharashtra Board SSC 10th Result 2021 at result.mh-ssc.ac.in: The SSC board examinations were conducted from March 15 to April 4, 2022. The students can check their scores at the official website — mahresult.nic.in, hscresult.mkcl.org, and msbshse.c…",
+      "url": "https://indianexpress.com/article/education/maharastra-ssc-class-10-board-exam-result-2022-date-and-time-announced-maharesult-nic-in-7888593/",
+      "urlToImage": "https://images.indianexpress.com/2022/06/Maharashtra-SSC-Results-2022-2.jpg",
+      "publishedAt": "2022-06-16T16:04:40Z",
+      "content": "The Maharashtra State Board of Secondary and Higher Secondary Education (MSBSHSE) will release the results for the class 10 or SSC board examination on June 17 at 1 pm. The students who appeared in t… [+2366 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Tech",
+      "title": "5G smartphone under 15000? Vivo T1 5G, iQOO Z6 5G to Realme 9 5G, check top 5 - HT Tech",
+      "description": "Finding a good 5G smartphone on a tight budget? Check out Vivo T1 5G, iQOO Z6 5G, Realme 9 5G, and more here.",
+      "url": "https://tech.hindustantimes.com/mobile/news/5g-smartphone-under-15000-vivo-t1-5g-iqoo-z6-5g-to-realme-9-5g-check-top-5-71655392267636.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2022/06/16/1600x900/HT_Tech_(51)_1655392847158_1655392859924.jpg",
+      "publishedAt": "2022-06-16T15:21:55Z",
+      "content": "If you are looking for a 5G smartphone under 15000, then you are at the right place as there are a number of options that you can consider right now. But if your budget is limited to Rs. 15000, then,… [+1597 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": null,
+      "title": "Farhan Akhtar and Shibani Dandekar's underwater video from Maldives goes viral - Times of India",
+      "description": "Newlyweds Farhan Akhtar and Shibani Dandekar, who had earlier postponed their honeymoon owing to their hectic work commitments, are now vacationing in Maldives. The couple who seem to be having a great time, shared a glimpse of their beach trip on their socia…",
+      "url": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/farhan-akhtar-and-shibani-dandekars-underwater-video-from-maldives-goes-viral/videoshow/92259546.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/92259546/size-51676/92259546.jpg",
+      "publishedAt": "2022-06-16T15:20:40Z",
+      "content": "Newlyweds Farhan Akhtar\r\n and Shibani Dandekar\r\n, who had earlier postponed their honeymoon owing to their hectic work commitments, are now vacationing in Maldives\r\n. The couple who seem to be having… [+571 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "Himani Jha",
+      "title": "iPhone 14 Pro, iPhone 14 Pro Max to get MAJOR camera upgrade! - HT Tech",
+      "description": "iPhone 14 Pro and iPhone Pro Max will get biggest camera upgrade in years.",
+      "url": "https://tech.hindustantimes.com/mobile/news/iphone-14-pro-iphone-14-pro-max-to-get-major-camera-upgrade-71655392020752.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2022/06/16/1600x900/iphone-13-g60a402b4f_1920_1645775148797_1655392320174.jpg",
+      "publishedAt": "2022-06-16T15:16:08Z",
+      "content": "Apple is set to launch its iPhone 14 series globally in mid-September. The company is expected to launch four models this year with some major upgrades. As per rumors, the tech giant is planning to b… [+1762 chars]"
     }
   ]
-  
 }

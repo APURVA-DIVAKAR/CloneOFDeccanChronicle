@@ -51,7 +51,7 @@ const Home = () => {
   //    console.log('hey')
   //    console.log(article)
   // }
-  // console.log(topic)
+  console.log("news",news,"tech",tech,"science",science,"business",business,"sports",sports,entertainment)
  
   
   if (loading) {

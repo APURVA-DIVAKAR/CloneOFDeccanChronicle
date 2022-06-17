@@ -1,3 +1,4 @@
+import Axios from 'axios';
 import axios from 'axios';
 import * as _ from './ActionTypes'
 
@@ -22,8 +23,8 @@ const getDataSuccess =(payload)=>{
 export const getData=()=>{
     return(dispatch)=>{
         dispatch(getDataRequest());
-        axios.get('https://newsapi.org/v2/top-headlines?country=in&apiKey=b2a6360a3d6d43be9e1c0e1ff86a4721')
-        .then(r=>dispatch(getDataSuccess(r.data.articles)))
+        Axios.get('/news')
+        .then(r=>dispatch(getDataSuccess(r.data)))
         .catch(e=>dispatch(getDataError(e.data)))
     }
 }
@@ -49,8 +50,8 @@ const getBusinessSuccess =(payload)=>{
 export const getBusiness=()=>{
     return(dispatch)=>{
         dispatch(getBusinessRequest());
-        axios.get('https://newsapi.org/v2/top-headlines?category=business&country=in&apiKey=b2a6360a3d6d43be9e1c0e1ff86a4721')
-        .then(r=>dispatch(getBusinessSuccess(r.data.articles)))
+        Axios.get('/buisness')
+        .then(r=>dispatch(getBusinessSuccess(r.data)))
         .catch(e=>dispatch(getBusinessError(e.data)))
     }
 }
@@ -76,8 +77,8 @@ const getScienceSuccess =(payload)=>{
 export const getScience=()=>{
     return(dispatch)=>{
         dispatch(getScienceRequest());
-        axios.get('https://newsapi.org/v2/top-headlines?category=science&country=in&apiKey=b2a6360a3d6d43be9e1c0e1ff86a4721')
-        .then(r=>dispatch(getScienceSuccess(r.data.articles)))
+        Axios.get('/science')
+        .then(r=>dispatch(getScienceSuccess(r.data)))
         .catch(e=>dispatch(getScienceError(e.data)))
     }
 }
@@ -103,8 +104,8 @@ const getSportsSuccess =(payload)=>{
 export const getSports=()=>{
     return(dispatch)=>{
         dispatch(getSportsRequest());
-        axios.get('https://newsapi.org/v2/top-headlines?category=sports&country=in&apiKey=b2a6360a3d6d43be9e1c0e1ff86a4721')
-        .then(r=>dispatch(getSportsSuccess(r.data.articles)))
+        Axios.get('sports')
+        .then(r=>dispatch(getSportsSuccess(r.data)))
         .catch(e=>dispatch(getSportsError(e.data)))
     }
 }
@@ -130,8 +131,8 @@ const getTechSuccess =(payload)=>{
 export const getTech=()=>{
     return(dispatch)=>{
         dispatch(getTechRequest());
-        axios.get('https://newsapi.org/v2/top-headlines?category=technology&country=in&apiKey=b2a6360a3d6d43be9e1c0e1ff86a4721')
-        .then(r=>dispatch(getTechSuccess(r.data.articles)))
+        Axios.get('/tech')
+        .then(r=>dispatch(getTechSuccess(r.data)))
         .catch(e=>dispatch(getTechError(e.data)))
     }
 }
@@ -157,8 +158,8 @@ const getEntertainmentSuccess =(payload)=>{
 export const getEntertainment=()=>{
     return(dispatch)=>{
         dispatch(getEntertainmentRequest());
-        axios.get('https://newsapi.org/v2/top-headlines?category=entertainment&country=in&apiKey=b2a6360a3d6d43be9e1c0e1ff86a4721')
-        .then(r=>dispatch(getEntertainmentSuccess(r.data.articles)))
+        Axios.get('/entertainment')
+        .then(r=>dispatch(getEntertainmentSuccess(r.data)))
         .catch(e=>dispatch(getEntertainmentError(e.data)))
     }
 }
