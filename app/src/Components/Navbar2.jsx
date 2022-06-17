@@ -74,11 +74,11 @@ const Navbar2 = () => {
            More...
           </MenuButton>
           <MenuList>
-            <MenuItem>Download</MenuItem>
-            <MenuItem>Create a Copy</MenuItem>
-            <MenuItem>Mark as Draft</MenuItem>
-            <MenuItem>Delete</MenuItem>
-            <MenuItem>Attend a Workshop</MenuItem>
+            <MenuItem>Crime</MenuItem>
+            <MenuItem>Health</MenuItem>
+            <MenuItem>Awerness</MenuItem>
+            <MenuItem>Covid</MenuItem>
+            <MenuItem>Cricket</MenuItem>
           </MenuList>
         </Menu>
       </Flex>
