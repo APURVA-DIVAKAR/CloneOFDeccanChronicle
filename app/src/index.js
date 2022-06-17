@@ -10,7 +10,7 @@ import { Provider } from "react-redux";
 import { store } from "./Redux/store";
 import { ArticleProvider } from "./ArticleContext";
 
-axios.defaults.baseURL="http://localhost:8080"
+axios.defaults.baseURL="https://clonedeccanss.herokuapp.com"
 axios.defaults.headers.post["Content-Type"]="application/json"
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
