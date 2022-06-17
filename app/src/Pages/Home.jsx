@@ -55,8 +55,7 @@ const Home = () => {
  
   
   if (loading) {
-    return;
-    <CircularProgress isIndeterminate color='green.300' />
+    return   <CircularProgress isIndeterminate color='green.300' />
   }
   return (
     <Box w={'85%'} m='auto'>
